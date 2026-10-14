@@ -1,0 +1,31 @@
+# python cach files
+__pycache__/*
+__pycache__
+
+
+#enviroment files
+*.venv*
+
+# complied code
+*.toyc
+
+# compiled shaders
+*.spv
+
+# csv files
+*.csv
+
+# temp files
+temp.txt
+
+# juputer notebookes , iam usingfor testig code and chart buulding wiht matplotlib
+*.ipynb
+
+# DataBase files
+*.db
+*.db.wal
+
+# image files
+*.png
+*.jpg
+*.jpeg
