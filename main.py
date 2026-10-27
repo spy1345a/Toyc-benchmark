@@ -4,20 +4,23 @@ import duckdb
 import pandas as pd
 import numpy as np
 
-# Own custome importes made by spy1345a (author) or me who is woking on the code
+# Own custom imports made by spy1345a (author) or me who is working on the code
 from toyc import Cpu , GpuVulkan , bench , summarize , batch_bench  
 
 
 #==============END OF IMPORTS=================#
-#This the code using to test  and to generte the chatrs uusing plot.py file and the data is stored in the data folder as a database file called bench_data.db
+#This the code using to test  and to generate the charts using plot.py file and the data is stored in the data folder as a database file called bench_data.db
 
 # ==================CONFIG===================#
-codes = ["1 + 2", "10 - 5", "5*10", "500/10"] # Equations used for testing (+,-,*,/), no zero division (that throws a run time error)
-# will change the code -> Codes as a list to hold all the quiation for easire testing TO DO
+a = 10
+b = 5
+env = {"a": a, "b": b} # variables used in the equations, can be changed to any value you want
+
+codes = ["1 + 2", "10 - 5", "5*10", "500/10","(a + 2) * (b - 3) / 4"] # Equations used for testing (+,-,*,/), no zero division (that throws a run time error)
 
 n = 100_000 # times the equation is evaluated in a single batch (not repetitions — one continuous run of n evaluations)
 
-r = 10 #Number of times to repeat the test to get he average of each 
+r = 10 #Number of times to repeat the test to get he average of each
 
 os.makedirs("data", exist_ok=True) # create the data folder if it doesn't exist
 data_path = "data/" # path to the database file
@@ -49,24 +52,24 @@ def append_or_create(db, table, rows):
 
 code = codes[0]  # demo equation for the quick single runs below and warm up
 print("WARM UP")
-print ("Cpu:",Cpu.run(program = code, silent = True)) # this show the intiger as expected
-print ("Gpu:",GpuVulkan.run(program = code, silent = True)) # this will show float not int because of how the gpu calcutae 
+print ("Cpu:",Cpu.run(program = code, silent = True)) # this show the integer as expected
+print ("Gpu:",GpuVulkan.run(program = code, silent = True)) # this will show float not int because of how the gpu calculate 
 print("END OF WARM UP")
 
-# Benching Loop using the build in bentch funtion on toyc 
+# Benching Loop using the build in bench function on toyc 
 
 #==========================BATCH BENCH==================#
 print("\nSTART OF BATCH BENCH")
 
 for code in codes:
-    # Batch bentch Cpu loop
+    # Batch bench Cpu loop
     for num in ns: # log scale steps from 1 to n
-        cpu_batch_bench = batch_bench(program=code,n=num,repeat=r,backend="cpu",threads=4)
+        cpu_batch_bench = batch_bench(program=code,n=num,repeat=r,backend="cpu",threads=4,env=env)
         append_or_create(db, "cpu_batch_bench", cpu_batch_bench)
         print(f"[cpu_batch] code='{code}' n={num}", flush=True)
-    # Batch bentch Cpu loop
+    # Batch bench Cpu loop
     for num in ns: # log scale steps from 1 to n
-        gpu_batch_bench = batch_bench(program=code,n=num,repeat=r,backend="vulkan")
+        gpu_batch_bench = batch_bench(program=code,n=num,repeat=r,backend="vulkan",env=env)
         append_or_create(db, "gpu_batch_bench", gpu_batch_bench)
         print(f"[gpu_batch] code='{code}' n={num}", flush=True)
 
@@ -80,15 +83,15 @@ print("END OF BATCH BENCH")
 print("\nSTART OF SINGLE BENCH")
 
 for code in codes:
-    # Single bentch Cpu loop
+    # Single bench Cpu loop
     for num in ns: # log scale steps from 1 to n
-        cpu_single_bench = bench(program=code,n=num,repeat=r,backend="cpu")
+        cpu_single_bench = bench(program=code,n=num,repeat=r,backend="cpu",env=env)
         append_or_create(db, "cpu_single_bench", cpu_single_bench)
         print(f"[cpu_single] code='{code}' n={num}", flush=True)
 
     # Single bench Gpu loop
     for num in ns: # log scale steps from 1 to n
-        gpu_single_bench = bench(program=code,n=num,repeat=r,backend="vulkan")
+        gpu_single_bench = bench(program=code,n=num,repeat=r,backend="vulkan",env=env)
         append_or_create(db, "gpu_single_bench", gpu_single_bench)
         print(f"[gpu_single] code='{code}' n={num}", flush=True)
 
@@ -98,5 +101,5 @@ print("END OF SINGLE BENCH")
 
 db.close()
 
-# stopping the gpu from buring and going KABOOM (jk) it just causes a OOM if you over load it somehow idk how
+# stopping the gpu from burning and going KABOOM (jk) it just causes a OOM if you over load it somehow idk how
 GpuVulkan.shutdown()
