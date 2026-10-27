@@ -24,7 +24,7 @@ r = 10 #Number of times to repeat the test to get he average of each
 
 os.makedirs("data", exist_ok=True) # create the data folder if it doesn't exist
 data_path = "data/" # path to the database file
-db_name = data_path + "bench_data" 
+db_name = data_path + "bench_data_100k_10r_with_variables_assigning_rx580_2048sp_8gb" 
 
 # Log scale steps from 1 to n — captures full curve with ~150 points instead of 1,000,000
 ns = np.unique(np.logspace(0, np.log10(n), num=150, dtype=int))
@@ -50,10 +50,10 @@ def append_or_create(db, table, rows):
 
 # Test and gpu warmup
 
-code = codes[0]  # demo equation for the quick single runs below and warm up
+code = codes[4]  # demo equation for the quick single runs below and warm up
 print("WARM UP")
-print ("Cpu:",Cpu.run(program = code, silent = True)) # this show the integer as expected
-print ("Gpu:",GpuVulkan.run(program = code, silent = True)) # this will show float not int because of how the gpu calculate 
+print ("Cpu:",Cpu.run(program = code, silent = True,env=env)) # this show the integer as expected
+print ("Gpu:",GpuVulkan.run(program = code, silent = True,env=env)) # this will show float not int because of how the gpu calculate 
 print("END OF WARM UP")
 
 # Benching Loop using the build in bench function on toyc 
