@@ -3,7 +3,7 @@ import duckdb
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
-DB_PATH = ("data/bench_data_100k_10r.db")  # override via env var if needed
+DB_PATH = ("data//bench_data_100k_10r_with_variables_assigning_rx580_2048sp_8gb.db")   # override via env var if needed
 
 CPU_LABEL = ("Intel Core i5-4440")
 GPU_LABEL = ("AMD RX 580 2048SP 8GB")

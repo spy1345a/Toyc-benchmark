@@ -1,0 +1,2668 @@
+WARM UP
+Cpu: 6.0
+Gpu: 6.0
+END OF WARM UP
+
+START OF BATCH BENCH
+[cpu_batch] code='1 + 2' n=1
+[cpu_batch] code='1 + 2' n=2
+[cpu_batch] code='1 + 2' n=3
+[cpu_batch] code='1 + 2' n=4
+[cpu_batch] code='1 + 2' n=5
+[cpu_batch] code='1 + 2' n=6
+[cpu_batch] code='1 + 2' n=7
+[cpu_batch] code='1 + 2' n=8
+[cpu_batch] code='1 + 2' n=9
+[cpu_batch] code='1 + 2' n=10
+[cpu_batch] code='1 + 2' n=11
+[cpu_batch] code='1 + 2' n=12
+[cpu_batch] code='1 + 2' n=13
+[cpu_batch] code='1 + 2' n=14
+[cpu_batch] code='1 + 2' n=16
+[cpu_batch] code='1 + 2' n=17
+[cpu_batch] code='1 + 2' n=18
+[cpu_batch] code='1 + 2' n=20
+[cpu_batch] code='1 + 2' n=21
+[cpu_batch] code='1 + 2' n=23
+[cpu_batch] code='1 + 2' n=25
+[cpu_batch] code='1 + 2' n=27
+[cpu_batch] code='1 + 2' n=29
+[cpu_batch] code='1 + 2' n=32
+[cpu_batch] code='1 + 2' n=34
+[cpu_batch] code='1 + 2' n=37
+[cpu_batch] code='1 + 2' n=40
+[cpu_batch] code='1 + 2' n=44
+[cpu_batch] code='1 + 2' n=47
+[cpu_batch] code='1 + 2' n=51
+[cpu_batch] code='1 + 2' n=55
+[cpu_batch] code='1 + 2' n=60
+[cpu_batch] code='1 + 2' n=64
+[cpu_batch] code='1 + 2' n=70
+[cpu_batch] code='1 + 2' n=75
+[cpu_batch] code='1 + 2' n=81
+[cpu_batch] code='1 + 2' n=88
+[cpu_batch] code='1 + 2' n=95
+[cpu_batch] code='1 + 2' n=103
+[cpu_batch] code='1 + 2' n=111
+[cpu_batch] code='1 + 2' n=120
+[cpu_batch] code='1 + 2' n=130
+[cpu_batch] code='1 + 2' n=140
+[cpu_batch] code='1 + 2' n=151
+[cpu_batch] code='1 + 2' n=163
+[cpu_batch] code='1 + 2' n=177
+[cpu_batch] code='1 + 2' n=191
+[cpu_batch] code='1 + 2' n=206
+[cpu_batch] code='1 + 2' n=223
+[cpu_batch] code='1 + 2' n=241
+[cpu_batch] code='1 + 2' n=260
+[cpu_batch] code='1 + 2' n=281
+[cpu_batch] code='1 + 2' n=304
+[cpu_batch] code='1 + 2' n=328
+[cpu_batch] code='1 + 2' n=355
+[cpu_batch] code='1 + 2' n=383
+[cpu_batch] code='1 + 2' n=414
+[cpu_batch] code='1 + 2' n=447
+[cpu_batch] code='1 + 2' n=483
+[cpu_batch] code='1 + 2' n=522
+[cpu_batch] code='1 + 2' n=564
+[cpu_batch] code='1 + 2' n=609
+[cpu_batch] code='1 + 2' n=658
+[cpu_batch] code='1 + 2' n=711
+[cpu_batch] code='1 + 2' n=768
+[cpu_batch] code='1 + 2' n=830
+[cpu_batch] code='1 + 2' n=897
+[cpu_batch] code='1 + 2' n=969
+[cpu_batch] code='1 + 2' n=1047
+[cpu_batch] code='1 + 2' n=1131
+[cpu_batch] code='1 + 2' n=1222
+[cpu_batch] code='1 + 2' n=1320
+[cpu_batch] code='1 + 2' n=1426
+[cpu_batch] code='1 + 2' n=1541
+[cpu_batch] code='1 + 2' n=1665
+[cpu_batch] code='1 + 2' n=1799
+[cpu_batch] code='1 + 2' n=1943
+[cpu_batch] code='1 + 2' n=2099
+[cpu_batch] code='1 + 2' n=2268
+[cpu_batch] code='1 + 2' n=2450
+[cpu_batch] code='1 + 2' n=2647
+[cpu_batch] code='1 + 2' n=2860
+[cpu_batch] code='1 + 2' n=3089
+[cpu_batch] code='1 + 2' n=3338
+[cpu_batch] code='1 + 2' n=3606
+[cpu_batch] code='1 + 2' n=3895
+[cpu_batch] code='1 + 2' n=4208
+[cpu_batch] code='1 + 2' n=4546
+[cpu_batch] code='1 + 2' n=4912
+[cpu_batch] code='1 + 2' n=5306
+[cpu_batch] code='1 + 2' n=5733
+WARM UP
+Cpu: 6.0
+Gpu: 6.0
+END OF WARM UP
+
+START OF BATCH BENCH
+[cpu_batch] code='1 + 2' n=1
+[cpu_batch] code='1 + 2' n=2
+[cpu_batch] code='1 + 2' n=3
+[cpu_batch] code='1 + 2' n=4
+[cpu_batch] code='1 + 2' n=5
+[cpu_batch] code='1 + 2' n=6
+[cpu_batch] code='1 + 2' n=7
+[cpu_batch] code='1 + 2' n=8
+[cpu_batch] code='1 + 2' n=9
+[cpu_batch] code='1 + 2' n=10
+[cpu_batch] code='1 + 2' n=11
+[cpu_batch] code='1 + 2' n=12
+[cpu_batch] code='1 + 2' n=13
+[cpu_batch] code='1 + 2' n=14
+[cpu_batch] code='1 + 2' n=16
+[cpu_batch] code='1 + 2' n=17
+[cpu_batch] code='1 + 2' n=18
+[cpu_batch] code='1 + 2' n=20
+[cpu_batch] code='1 + 2' n=21
+[cpu_batch] code='1 + 2' n=23
+[cpu_batch] code='1 + 2' n=25
+[cpu_batch] code='1 + 2' n=27
+[cpu_batch] code='1 + 2' n=29
+[cpu_batch] code='1 + 2' n=32
+[cpu_batch] code='1 + 2' n=34
+[cpu_batch] code='1 + 2' n=37
+[cpu_batch] code='1 + 2' n=40
+[cpu_batch] code='1 + 2' n=44
+[cpu_batch] code='1 + 2' n=47
+[cpu_batch] code='1 + 2' n=51
+[cpu_batch] code='1 + 2' n=55
+[cpu_batch] code='1 + 2' n=60
+[cpu_batch] code='1 + 2' n=64
+[cpu_batch] code='1 + 2' n=70
+[cpu_batch] code='1 + 2' n=75
+[cpu_batch] code='1 + 2' n=81
+[cpu_batch] code='1 + 2' n=88
+[cpu_batch] code='1 + 2' n=95
+[cpu_batch] code='1 + 2' n=103
+[cpu_batch] code='1 + 2' n=111
+[cpu_batch] code='1 + 2' n=120
+[cpu_batch] code='1 + 2' n=130
+[cpu_batch] code='1 + 2' n=140
+[cpu_batch] code='1 + 2' n=151
+[cpu_batch] code='1 + 2' n=163
+[cpu_batch] code='1 + 2' n=177
+[cpu_batch] code='1 + 2' n=191
+[cpu_batch] code='1 + 2' n=206
+[cpu_batch] code='1 + 2' n=223
+[cpu_batch] code='1 + 2' n=241
+[cpu_batch] code='1 + 2' n=260
+[cpu_batch] code='1 + 2' n=281
+[cpu_batch] code='1 + 2' n=304
+[cpu_batch] code='1 + 2' n=328
+[cpu_batch] code='1 + 2' n=355
+[cpu_batch] code='1 + 2' n=383
+[cpu_batch] code='1 + 2' n=414
+[cpu_batch] code='1 + 2' n=447
+[cpu_batch] code='1 + 2' n=483
+[cpu_batch] code='1 + 2' n=522
+[cpu_batch] code='1 + 2' n=564
+[cpu_batch] code='1 + 2' n=609
+[cpu_batch] code='1 + 2' n=658
+[cpu_batch] code='1 + 2' n=711
+[cpu_batch] code='1 + 2' n=768
+[cpu_batch] code='1 + 2' n=830
+[cpu_batch] code='1 + 2' n=897
+[cpu_batch] code='1 + 2' n=969
+[cpu_batch] code='1 + 2' n=1047
+[cpu_batch] code='1 + 2' n=1131
+[cpu_batch] code='1 + 2' n=1222
+[cpu_batch] code='1 + 2' n=1320
+[cpu_batch] code='1 + 2' n=1426
+[cpu_batch] code='1 + 2' n=1541
+[cpu_batch] code='1 + 2' n=1665
+[cpu_batch] code='1 + 2' n=1799
+[cpu_batch] code='1 + 2' n=1943
+[cpu_batch] code='1 + 2' n=2099
+[cpu_batch] code='1 + 2' n=2268
+[cpu_batch] code='1 + 2' n=2450
+[cpu_batch] code='1 + 2' n=2647
+[cpu_batch] code='1 + 2' n=2860
+[cpu_batch] code='1 + 2' n=3089
+[cpu_batch] code='1 + 2' n=3338
+[cpu_batch] code='1 + 2' n=3606
+[cpu_batch] code='1 + 2' n=3895
+[cpu_batch] code='1 + 2' n=4208
+[cpu_batch] code='1 + 2' n=4546
+[cpu_batch] code='1 + 2' n=4912
+[cpu_batch] code='1 + 2' n=5306
+[cpu_batch] code='1 + 2' n=5733
+[cpu_batch] code='1 + 2' n=6193
+[cpu_batch] code='1 + 2' n=6691
+[cpu_batch] code='1 + 2' n=7228
+[cpu_batch] code='1 + 2' n=7809
+[cpu_batch] code='1 + 2' n=8436
+[cpu_batch] code='1 + 2' n=9114
+[cpu_batch] code='1 + 2' n=9846
+[cpu_batch] code='1 + 2' n=10637
+[cpu_batch] code='1 + 2' n=11492
+[cpu_batch] code='1 + 2' n=12415
+[cpu_batch] code='1 + 2' n=13412
+[cpu_batch] code='1 + 2' n=14490
+[cpu_batch] code='1 + 2' n=15654
+[cpu_batch] code='1 + 2' n=16911
+[cpu_batch] code='1 + 2' n=18270
+[cpu_batch] code='1 + 2' n=19737
+[cpu_batch] code='1 + 2' n=21323
+[cpu_batch] code='1 + 2' n=23036
+[cpu_batch] code='1 + 2' n=24887
+[cpu_batch] code='1 + 2' n=26886
+[cpu_batch] code='1 + 2' n=29046
+[cpu_batch] code='1 + 2' n=31379
+[cpu_batch] code='1 + 2' n=33900
+[cpu_batch] code='1 + 2' n=36623
+[cpu_batch] code='1 + 2' n=39565
+[cpu_batch] code='1 + 2' n=42743
+[cpu_batch] code='1 + 2' n=46177
+[cpu_batch] code='1 + 2' n=49886
+[cpu_batch] code='1 + 2' n=53894
+[cpu_batch] code='1 + 2' n=58223
+[cpu_batch] code='1 + 2' n=62901
+[cpu_batch] code='1 + 2' n=67953
+[cpu_batch] code='1 + 2' n=73412
+[cpu_batch] code='1 + 2' n=79310
+[cpu_batch] code='1 + 2' n=85681
+[cpu_batch] code='1 + 2' n=92564
+[cpu_batch] code='1 + 2' n=100000
+[gpu_batch] code='1 + 2' n=1
+[gpu_batch] code='1 + 2' n=2
+[gpu_batch] code='1 + 2' n=3
+[gpu_batch] code='1 + 2' n=4
+[gpu_batch] code='1 + 2' n=5
+[gpu_batch] code='1 + 2' n=6
+[gpu_batch] code='1 + 2' n=7
+[gpu_batch] code='1 + 2' n=8
+[gpu_batch] code='1 + 2' n=9
+[gpu_batch] code='1 + 2' n=10
+[gpu_batch] code='1 + 2' n=11
+[gpu_batch] code='1 + 2' n=12
+[gpu_batch] code='1 + 2' n=13
+[gpu_batch] code='1 + 2' n=14
+[gpu_batch] code='1 + 2' n=16
+[gpu_batch] code='1 + 2' n=17
+[gpu_batch] code='1 + 2' n=18
+[gpu_batch] code='1 + 2' n=20
+[gpu_batch] code='1 + 2' n=21
+[gpu_batch] code='1 + 2' n=23
+[gpu_batch] code='1 + 2' n=25
+[gpu_batch] code='1 + 2' n=27
+[gpu_batch] code='1 + 2' n=29
+[gpu_batch] code='1 + 2' n=32
+[gpu_batch] code='1 + 2' n=34
+[gpu_batch] code='1 + 2' n=37
+[gpu_batch] code='1 + 2' n=40
+[gpu_batch] code='1 + 2' n=44
+[gpu_batch] code='1 + 2' n=47
+[gpu_batch] code='1 + 2' n=51
+[gpu_batch] code='1 + 2' n=55
+[gpu_batch] code='1 + 2' n=60
+[gpu_batch] code='1 + 2' n=64
+[gpu_batch] code='1 + 2' n=70
+[gpu_batch] code='1 + 2' n=75
+[gpu_batch] code='1 + 2' n=81
+[gpu_batch] code='1 + 2' n=88
+[gpu_batch] code='1 + 2' n=95
+[gpu_batch] code='1 + 2' n=103
+[gpu_batch] code='1 + 2' n=111
+[gpu_batch] code='1 + 2' n=120
+[gpu_batch] code='1 + 2' n=130
+[gpu_batch] code='1 + 2' n=140
+[gpu_batch] code='1 + 2' n=151
+[gpu_batch] code='1 + 2' n=163
+[gpu_batch] code='1 + 2' n=177
+[gpu_batch] code='1 + 2' n=191
+[gpu_batch] code='1 + 2' n=206
+[gpu_batch] code='1 + 2' n=223
+[gpu_batch] code='1 + 2' n=241
+[gpu_batch] code='1 + 2' n=260
+[gpu_batch] code='1 + 2' n=281
+[gpu_batch] code='1 + 2' n=304
+[gpu_batch] code='1 + 2' n=328
+[gpu_batch] code='1 + 2' n=355
+[gpu_batch] code='1 + 2' n=383
+[gpu_batch] code='1 + 2' n=414
+[gpu_batch] code='1 + 2' n=447
+[gpu_batch] code='1 + 2' n=483
+[gpu_batch] code='1 + 2' n=522
+[gpu_batch] code='1 + 2' n=564
+[gpu_batch] code='1 + 2' n=609
+[gpu_batch] code='1 + 2' n=658
+[gpu_batch] code='1 + 2' n=711
+[gpu_batch] code='1 + 2' n=768
+[gpu_batch] code='1 + 2' n=830
+[gpu_batch] code='1 + 2' n=897
+[gpu_batch] code='1 + 2' n=969
+[gpu_batch] code='1 + 2' n=1047
+[gpu_batch] code='1 + 2' n=1131
+[gpu_batch] code='1 + 2' n=1222
+[gpu_batch] code='1 + 2' n=1320
+[gpu_batch] code='1 + 2' n=1426
+[gpu_batch] code='1 + 2' n=1541
+[gpu_batch] code='1 + 2' n=1665
+[gpu_batch] code='1 + 2' n=1799
+[gpu_batch] code='1 + 2' n=1943
+[gpu_batch] code='1 + 2' n=2099
+[gpu_batch] code='1 + 2' n=2268
+[gpu_batch] code='1 + 2' n=2450
+[gpu_batch] code='1 + 2' n=2647
+[gpu_batch] code='1 + 2' n=2860
+[gpu_batch] code='1 + 2' n=3089
+[gpu_batch] code='1 + 2' n=3338
+[gpu_batch] code='1 + 2' n=3606
+[gpu_batch] code='1 + 2' n=3895
+[gpu_batch] code='1 + 2' n=4208
+[gpu_batch] code='1 + 2' n=4546
+[gpu_batch] code='1 + 2' n=4912
+[gpu_batch] code='1 + 2' n=5306
+[gpu_batch] code='1 + 2' n=5733
+[gpu_batch] code='1 + 2' n=6193
+[gpu_batch] code='1 + 2' n=6691
+[gpu_batch] code='1 + 2' n=7228
+[gpu_batch] code='1 + 2' n=7809
+[gpu_batch] code='1 + 2' n=8436
+[gpu_batch] code='1 + 2' n=9114
+[gpu_batch] code='1 + 2' n=9846
+[gpu_batch] code='1 + 2' n=10637
+[gpu_batch] code='1 + 2' n=11492
+[gpu_batch] code='1 + 2' n=12415
+[gpu_batch] code='1 + 2' n=13412
+[gpu_batch] code='1 + 2' n=14490
+[gpu_batch] code='1 + 2' n=15654
+[gpu_batch] code='1 + 2' n=16911
+[gpu_batch] code='1 + 2' n=18270
+[gpu_batch] code='1 + 2' n=19737
+[gpu_batch] code='1 + 2' n=21323
+[gpu_batch] code='1 + 2' n=23036
+[gpu_batch] code='1 + 2' n=24887
+[gpu_batch] code='1 + 2' n=26886
+[gpu_batch] code='1 + 2' n=29046
+[gpu_batch] code='1 + 2' n=31379
+[gpu_batch] code='1 + 2' n=33900
+[gpu_batch] code='1 + 2' n=36623
+[gpu_batch] code='1 + 2' n=39565
+[gpu_batch] code='1 + 2' n=42743
+[gpu_batch] code='1 + 2' n=46177
+[gpu_batch] code='1 + 2' n=49886
+[gpu_batch] code='1 + 2' n=53894
+[gpu_batch] code='1 + 2' n=58223
+[gpu_batch] code='1 + 2' n=62901
+[gpu_batch] code='1 + 2' n=67953
+[gpu_batch] code='1 + 2' n=73412
+[gpu_batch] code='1 + 2' n=79310
+[gpu_batch] code='1 + 2' n=85681
+[gpu_batch] code='1 + 2' n=92564
+[gpu_batch] code='1 + 2' n=100000
+[cpu_batch] code='10 - 5' n=1
+[cpu_batch] code='10 - 5' n=2
+[cpu_batch] code='10 - 5' n=3
+[cpu_batch] code='10 - 5' n=4
+[cpu_batch] code='10 - 5' n=5
+[cpu_batch] code='10 - 5' n=6
+[cpu_batch] code='10 - 5' n=7
+[cpu_batch] code='10 - 5' n=8
+[cpu_batch] code='10 - 5' n=9
+[cpu_batch] code='10 - 5' n=10
+[cpu_batch] code='10 - 5' n=11
+[cpu_batch] code='10 - 5' n=12
+[cpu_batch] code='10 - 5' n=13
+[cpu_batch] code='10 - 5' n=14
+[cpu_batch] code='10 - 5' n=16
+[cpu_batch] code='10 - 5' n=17
+[cpu_batch] code='10 - 5' n=18
+[cpu_batch] code='10 - 5' n=20
+[cpu_batch] code='10 - 5' n=21
+[cpu_batch] code='10 - 5' n=23
+[cpu_batch] code='10 - 5' n=25
+[cpu_batch] code='10 - 5' n=27
+[cpu_batch] code='10 - 5' n=29
+[cpu_batch] code='10 - 5' n=32
+[cpu_batch] code='10 - 5' n=34
+[cpu_batch] code='10 - 5' n=37
+[cpu_batch] code='10 - 5' n=40
+[cpu_batch] code='10 - 5' n=44
+[cpu_batch] code='10 - 5' n=47
+[cpu_batch] code='10 - 5' n=51
+[cpu_batch] code='10 - 5' n=55
+[cpu_batch] code='10 - 5' n=60
+[cpu_batch] code='10 - 5' n=64
+[cpu_batch] code='10 - 5' n=70
+[cpu_batch] code='10 - 5' n=75
+[cpu_batch] code='10 - 5' n=81
+[cpu_batch] code='10 - 5' n=88
+[cpu_batch] code='10 - 5' n=95
+[cpu_batch] code='10 - 5' n=103
+[cpu_batch] code='10 - 5' n=111
+[cpu_batch] code='10 - 5' n=120
+[cpu_batch] code='10 - 5' n=130
+[cpu_batch] code='10 - 5' n=140
+[cpu_batch] code='10 - 5' n=151
+[cpu_batch] code='10 - 5' n=163
+[cpu_batch] code='10 - 5' n=177
+[cpu_batch] code='10 - 5' n=191
+[cpu_batch] code='10 - 5' n=206
+[cpu_batch] code='10 - 5' n=223
+[cpu_batch] code='10 - 5' n=241
+[cpu_batch] code='10 - 5' n=260
+[cpu_batch] code='10 - 5' n=281
+[cpu_batch] code='10 - 5' n=304
+[cpu_batch] code='10 - 5' n=328
+[cpu_batch] code='10 - 5' n=355
+[cpu_batch] code='10 - 5' n=383
+[cpu_batch] code='10 - 5' n=414
+[cpu_batch] code='10 - 5' n=447
+[cpu_batch] code='10 - 5' n=483
+[cpu_batch] code='10 - 5' n=522
+[cpu_batch] code='10 - 5' n=564
+[cpu_batch] code='10 - 5' n=609
+[cpu_batch] code='10 - 5' n=658
+[cpu_batch] code='10 - 5' n=711
+[cpu_batch] code='10 - 5' n=768
+[cpu_batch] code='10 - 5' n=830
+[cpu_batch] code='10 - 5' n=897
+[cpu_batch] code='10 - 5' n=969
+[cpu_batch] code='10 - 5' n=1047
+[cpu_batch] code='10 - 5' n=1131
+[cpu_batch] code='10 - 5' n=1222
+[cpu_batch] code='10 - 5' n=1320
+[cpu_batch] code='10 - 5' n=1426
+[cpu_batch] code='10 - 5' n=1541
+[cpu_batch] code='10 - 5' n=1665
+[cpu_batch] code='10 - 5' n=1799
+[cpu_batch] code='10 - 5' n=1943
+[cpu_batch] code='10 - 5' n=2099
+[cpu_batch] code='10 - 5' n=2268
+[cpu_batch] code='10 - 5' n=2450
+[cpu_batch] code='10 - 5' n=2647
+[cpu_batch] code='10 - 5' n=2860
+[cpu_batch] code='10 - 5' n=3089
+[cpu_batch] code='10 - 5' n=3338
+[cpu_batch] code='10 - 5' n=3606
+[cpu_batch] code='10 - 5' n=3895
+[cpu_batch] code='10 - 5' n=4208
+[cpu_batch] code='10 - 5' n=4546
+[cpu_batch] code='10 - 5' n=4912
+[cpu_batch] code='10 - 5' n=5306
+[cpu_batch] code='10 - 5' n=5733
+[cpu_batch] code='10 - 5' n=6193
+[cpu_batch] code='10 - 5' n=6691
+[cpu_batch] code='10 - 5' n=7228
+[cpu_batch] code='10 - 5' n=7809
+[cpu_batch] code='10 - 5' n=8436
+[cpu_batch] code='10 - 5' n=9114
+[cpu_batch] code='10 - 5' n=9846
+[cpu_batch] code='10 - 5' n=10637
+[cpu_batch] code='10 - 5' n=11492
+[cpu_batch] code='10 - 5' n=12415
+[cpu_batch] code='10 - 5' n=13412
+[cpu_batch] code='10 - 5' n=14490
+[cpu_batch] code='10 - 5' n=15654
+[cpu_batch] code='10 - 5' n=16911
+[cpu_batch] code='10 - 5' n=18270
+[cpu_batch] code='10 - 5' n=19737
+[cpu_batch] code='10 - 5' n=21323
+[cpu_batch] code='10 - 5' n=23036
+[cpu_batch] code='10 - 5' n=24887
+[cpu_batch] code='10 - 5' n=26886
+[cpu_batch] code='10 - 5' n=29046
+[cpu_batch] code='10 - 5' n=31379
+[cpu_batch] code='10 - 5' n=33900
+[cpu_batch] code='10 - 5' n=36623
+[cpu_batch] code='10 - 5' n=39565
+[cpu_batch] code='10 - 5' n=42743
+[cpu_batch] code='10 - 5' n=46177
+[cpu_batch] code='10 - 5' n=49886
+[cpu_batch] code='10 - 5' n=53894
+[cpu_batch] code='10 - 5' n=58223
+[cpu_batch] code='10 - 5' n=62901
+[cpu_batch] code='10 - 5' n=67953
+[cpu_batch] code='10 - 5' n=73412
+[cpu_batch] code='10 - 5' n=79310
+[cpu_batch] code='10 - 5' n=85681
+[cpu_batch] code='10 - 5' n=92564
+[cpu_batch] code='10 - 5' n=100000
+[gpu_batch] code='10 - 5' n=1
+[gpu_batch] code='10 - 5' n=2
+[gpu_batch] code='10 - 5' n=3
+[gpu_batch] code='10 - 5' n=4
+[gpu_batch] code='10 - 5' n=5
+[gpu_batch] code='10 - 5' n=6
+[gpu_batch] code='10 - 5' n=7
+[gpu_batch] code='10 - 5' n=8
+[gpu_batch] code='10 - 5' n=9
+[gpu_batch] code='10 - 5' n=10
+[gpu_batch] code='10 - 5' n=11
+[gpu_batch] code='10 - 5' n=12
+[gpu_batch] code='10 - 5' n=13
+[gpu_batch] code='10 - 5' n=14
+[gpu_batch] code='10 - 5' n=16
+[gpu_batch] code='10 - 5' n=17
+[gpu_batch] code='10 - 5' n=18
+[gpu_batch] code='10 - 5' n=20
+[gpu_batch] code='10 - 5' n=21
+[gpu_batch] code='10 - 5' n=23
+[gpu_batch] code='10 - 5' n=25
+[gpu_batch] code='10 - 5' n=27
+[gpu_batch] code='10 - 5' n=29
+[gpu_batch] code='10 - 5' n=32
+[gpu_batch] code='10 - 5' n=34
+[gpu_batch] code='10 - 5' n=37
+[gpu_batch] code='10 - 5' n=40
+[gpu_batch] code='10 - 5' n=44
+[gpu_batch] code='10 - 5' n=47
+[gpu_batch] code='10 - 5' n=51
+[gpu_batch] code='10 - 5' n=55
+[gpu_batch] code='10 - 5' n=60
+[gpu_batch] code='10 - 5' n=64
+[gpu_batch] code='10 - 5' n=70
+[gpu_batch] code='10 - 5' n=75
+[gpu_batch] code='10 - 5' n=81
+[gpu_batch] code='10 - 5' n=88
+[gpu_batch] code='10 - 5' n=95
+[gpu_batch] code='10 - 5' n=103
+[gpu_batch] code='10 - 5' n=111
+[gpu_batch] code='10 - 5' n=120
+[gpu_batch] code='10 - 5' n=130
+[gpu_batch] code='10 - 5' n=140
+[gpu_batch] code='10 - 5' n=151
+[gpu_batch] code='10 - 5' n=163
+[gpu_batch] code='10 - 5' n=177
+[gpu_batch] code='10 - 5' n=191
+[gpu_batch] code='10 - 5' n=206
+[gpu_batch] code='10 - 5' n=223
+[gpu_batch] code='10 - 5' n=241
+[gpu_batch] code='10 - 5' n=260
+[gpu_batch] code='10 - 5' n=281
+[gpu_batch] code='10 - 5' n=304
+[gpu_batch] code='10 - 5' n=328
+[gpu_batch] code='10 - 5' n=355
+[gpu_batch] code='10 - 5' n=383
+[gpu_batch] code='10 - 5' n=414
+[gpu_batch] code='10 - 5' n=447
+[gpu_batch] code='10 - 5' n=483
+[gpu_batch] code='10 - 5' n=522
+[gpu_batch] code='10 - 5' n=564
+[gpu_batch] code='10 - 5' n=609
+[gpu_batch] code='10 - 5' n=658
+[gpu_batch] code='10 - 5' n=711
+[gpu_batch] code='10 - 5' n=768
+[gpu_batch] code='10 - 5' n=830
+[gpu_batch] code='10 - 5' n=897
+[gpu_batch] code='10 - 5' n=969
+[gpu_batch] code='10 - 5' n=1047
+[gpu_batch] code='10 - 5' n=1131
+[gpu_batch] code='10 - 5' n=1222
+[gpu_batch] code='10 - 5' n=1320
+[gpu_batch] code='10 - 5' n=1426
+[gpu_batch] code='10 - 5' n=1541
+[gpu_batch] code='10 - 5' n=1665
+[gpu_batch] code='10 - 5' n=1799
+[gpu_batch] code='10 - 5' n=1943
+[gpu_batch] code='10 - 5' n=2099
+[gpu_batch] code='10 - 5' n=2268
+[gpu_batch] code='10 - 5' n=2450
+[gpu_batch] code='10 - 5' n=2647
+[gpu_batch] code='10 - 5' n=2860
+[gpu_batch] code='10 - 5' n=3089
+[gpu_batch] code='10 - 5' n=3338
+[gpu_batch] code='10 - 5' n=3606
+[gpu_batch] code='10 - 5' n=3895
+[gpu_batch] code='10 - 5' n=4208
+[gpu_batch] code='10 - 5' n=4546
+[gpu_batch] code='10 - 5' n=4912
+[gpu_batch] code='10 - 5' n=5306
+[gpu_batch] code='10 - 5' n=5733
+[gpu_batch] code='10 - 5' n=6193
+[gpu_batch] code='10 - 5' n=6691
+[gpu_batch] code='10 - 5' n=7228
+[gpu_batch] code='10 - 5' n=7809
+[gpu_batch] code='10 - 5' n=8436
+[gpu_batch] code='10 - 5' n=9114
+[gpu_batch] code='10 - 5' n=9846
+[gpu_batch] code='10 - 5' n=10637
+[gpu_batch] code='10 - 5' n=11492
+[gpu_batch] code='10 - 5' n=12415
+[gpu_batch] code='10 - 5' n=13412
+[gpu_batch] code='10 - 5' n=14490
+[gpu_batch] code='10 - 5' n=15654
+[gpu_batch] code='10 - 5' n=16911
+[gpu_batch] code='10 - 5' n=18270
+[gpu_batch] code='10 - 5' n=19737
+[gpu_batch] code='10 - 5' n=21323
+[gpu_batch] code='10 - 5' n=23036
+[gpu_batch] code='10 - 5' n=24887
+[gpu_batch] code='10 - 5' n=26886
+[gpu_batch] code='10 - 5' n=29046
+[gpu_batch] code='10 - 5' n=31379
+[gpu_batch] code='10 - 5' n=33900
+[gpu_batch] code='10 - 5' n=36623
+[gpu_batch] code='10 - 5' n=39565
+[gpu_batch] code='10 - 5' n=42743
+[gpu_batch] code='10 - 5' n=46177
+[gpu_batch] code='10 - 5' n=49886
+[gpu_batch] code='10 - 5' n=53894
+[gpu_batch] code='10 - 5' n=58223
+[gpu_batch] code='10 - 5' n=62901
+[gpu_batch] code='10 - 5' n=67953
+[gpu_batch] code='10 - 5' n=73412
+[gpu_batch] code='10 - 5' n=79310
+[gpu_batch] code='10 - 5' n=85681
+[gpu_batch] code='10 - 5' n=92564
+[gpu_batch] code='10 - 5' n=100000
+[cpu_batch] code='5*10' n=1
+[cpu_batch] code='5*10' n=2
+[cpu_batch] code='5*10' n=3
+[cpu_batch] code='5*10' n=4
+[cpu_batch] code='5*10' n=5
+[cpu_batch] code='5*10' n=6
+[cpu_batch] code='5*10' n=7
+[cpu_batch] code='5*10' n=8
+[cpu_batch] code='5*10' n=9
+[cpu_batch] code='5*10' n=10
+[cpu_batch] code='5*10' n=11
+[cpu_batch] code='5*10' n=12
+[cpu_batch] code='5*10' n=13
+[cpu_batch] code='5*10' n=14
+[cpu_batch] code='5*10' n=16
+[cpu_batch] code='5*10' n=17
+[cpu_batch] code='5*10' n=18
+[cpu_batch] code='5*10' n=20
+[cpu_batch] code='5*10' n=21
+[cpu_batch] code='5*10' n=23
+[cpu_batch] code='5*10' n=25
+[cpu_batch] code='5*10' n=27
+[cpu_batch] code='5*10' n=29
+[cpu_batch] code='5*10' n=32
+[cpu_batch] code='5*10' n=34
+[cpu_batch] code='5*10' n=37
+[cpu_batch] code='5*10' n=40
+[cpu_batch] code='5*10' n=44
+[cpu_batch] code='5*10' n=47
+[cpu_batch] code='5*10' n=51
+[cpu_batch] code='5*10' n=55
+[cpu_batch] code='5*10' n=60
+[cpu_batch] code='5*10' n=64
+[cpu_batch] code='5*10' n=70
+[cpu_batch] code='5*10' n=75
+[cpu_batch] code='5*10' n=81
+[cpu_batch] code='5*10' n=88
+[cpu_batch] code='5*10' n=95
+[cpu_batch] code='5*10' n=103
+[cpu_batch] code='5*10' n=111
+[cpu_batch] code='5*10' n=120
+[cpu_batch] code='5*10' n=130
+[cpu_batch] code='5*10' n=140
+[cpu_batch] code='5*10' n=151
+[cpu_batch] code='5*10' n=163
+[cpu_batch] code='5*10' n=177
+[cpu_batch] code='5*10' n=191
+[cpu_batch] code='5*10' n=206
+[cpu_batch] code='5*10' n=223
+[cpu_batch] code='5*10' n=241
+[cpu_batch] code='5*10' n=260
+[cpu_batch] code='5*10' n=281
+[cpu_batch] code='5*10' n=304
+[cpu_batch] code='5*10' n=328
+[cpu_batch] code='5*10' n=355
+[cpu_batch] code='5*10' n=383
+[cpu_batch] code='5*10' n=414
+[cpu_batch] code='5*10' n=447
+[cpu_batch] code='5*10' n=483
+[cpu_batch] code='5*10' n=522
+[cpu_batch] code='5*10' n=564
+[cpu_batch] code='5*10' n=609
+[cpu_batch] code='5*10' n=658
+[cpu_batch] code='5*10' n=711
+[cpu_batch] code='5*10' n=768
+[cpu_batch] code='5*10' n=830
+[cpu_batch] code='5*10' n=897
+[cpu_batch] code='5*10' n=969
+[cpu_batch] code='5*10' n=1047
+[cpu_batch] code='5*10' n=1131
+[cpu_batch] code='5*10' n=1222
+[cpu_batch] code='5*10' n=1320
+[cpu_batch] code='5*10' n=1426
+[cpu_batch] code='5*10' n=1541
+[cpu_batch] code='5*10' n=1665
+[cpu_batch] code='5*10' n=1799
+[cpu_batch] code='5*10' n=1943
+[cpu_batch] code='5*10' n=2099
+[cpu_batch] code='5*10' n=2268
+[cpu_batch] code='5*10' n=2450
+[cpu_batch] code='5*10' n=2647
+[cpu_batch] code='5*10' n=2860
+[cpu_batch] code='5*10' n=3089
+[cpu_batch] code='5*10' n=3338
+[cpu_batch] code='5*10' n=3606
+[cpu_batch] code='5*10' n=3895
+[cpu_batch] code='5*10' n=4208
+[cpu_batch] code='5*10' n=4546
+[cpu_batch] code='5*10' n=4912
+[cpu_batch] code='5*10' n=5306
+[cpu_batch] code='5*10' n=5733
+[cpu_batch] code='5*10' n=6193
+[cpu_batch] code='5*10' n=6691
+[cpu_batch] code='5*10' n=7228
+[cpu_batch] code='5*10' n=7809
+[cpu_batch] code='5*10' n=8436
+[cpu_batch] code='5*10' n=9114
+[cpu_batch] code='5*10' n=9846
+[cpu_batch] code='5*10' n=10637
+[cpu_batch] code='5*10' n=11492
+[cpu_batch] code='5*10' n=12415
+[cpu_batch] code='5*10' n=13412
+[cpu_batch] code='5*10' n=14490
+[cpu_batch] code='5*10' n=15654
+[cpu_batch] code='5*10' n=16911
+[cpu_batch] code='5*10' n=18270
+[cpu_batch] code='5*10' n=19737
+[cpu_batch] code='5*10' n=21323
+[cpu_batch] code='5*10' n=23036
+[cpu_batch] code='5*10' n=24887
+[cpu_batch] code='5*10' n=26886
+[cpu_batch] code='5*10' n=29046
+[cpu_batch] code='5*10' n=31379
+[cpu_batch] code='5*10' n=33900
+[cpu_batch] code='5*10' n=36623
+[cpu_batch] code='5*10' n=39565
+[cpu_batch] code='5*10' n=42743
+[cpu_batch] code='5*10' n=46177
+[cpu_batch] code='5*10' n=49886
+[cpu_batch] code='5*10' n=53894
+[cpu_batch] code='5*10' n=58223
+[cpu_batch] code='5*10' n=62901
+[cpu_batch] code='5*10' n=67953
+[cpu_batch] code='5*10' n=73412
+[cpu_batch] code='5*10' n=79310
+[cpu_batch] code='5*10' n=85681
+[cpu_batch] code='5*10' n=92564
+[cpu_batch] code='5*10' n=100000
+[gpu_batch] code='5*10' n=1
+[gpu_batch] code='5*10' n=2
+[gpu_batch] code='5*10' n=3
+[gpu_batch] code='5*10' n=4
+[gpu_batch] code='5*10' n=5
+[gpu_batch] code='5*10' n=6
+[gpu_batch] code='5*10' n=7
+[gpu_batch] code='5*10' n=8
+[gpu_batch] code='5*10' n=9
+[gpu_batch] code='5*10' n=10
+[gpu_batch] code='5*10' n=11
+[gpu_batch] code='5*10' n=12
+[gpu_batch] code='5*10' n=13
+[gpu_batch] code='5*10' n=14
+[gpu_batch] code='5*10' n=16
+[gpu_batch] code='5*10' n=17
+[gpu_batch] code='5*10' n=18
+[gpu_batch] code='5*10' n=20
+[gpu_batch] code='5*10' n=21
+[gpu_batch] code='5*10' n=23
+[gpu_batch] code='5*10' n=25
+[gpu_batch] code='5*10' n=27
+[gpu_batch] code='5*10' n=29
+[gpu_batch] code='5*10' n=32
+[gpu_batch] code='5*10' n=34
+[gpu_batch] code='5*10' n=37
+[gpu_batch] code='5*10' n=40
+[gpu_batch] code='5*10' n=44
+[gpu_batch] code='5*10' n=47
+[gpu_batch] code='5*10' n=51
+[gpu_batch] code='5*10' n=55
+[gpu_batch] code='5*10' n=60
+[gpu_batch] code='5*10' n=64
+[gpu_batch] code='5*10' n=70
+[gpu_batch] code='5*10' n=75
+[gpu_batch] code='5*10' n=81
+[gpu_batch] code='5*10' n=88
+[gpu_batch] code='5*10' n=95
+[gpu_batch] code='5*10' n=103
+[gpu_batch] code='5*10' n=111
+[gpu_batch] code='5*10' n=120
+[gpu_batch] code='5*10' n=130
+[gpu_batch] code='5*10' n=140
+[gpu_batch] code='5*10' n=151
+[gpu_batch] code='5*10' n=163
+[gpu_batch] code='5*10' n=177
+[gpu_batch] code='5*10' n=191
+[gpu_batch] code='5*10' n=206
+[gpu_batch] code='5*10' n=223
+[gpu_batch] code='5*10' n=241
+[gpu_batch] code='5*10' n=260
+[gpu_batch] code='5*10' n=281
+[gpu_batch] code='5*10' n=304
+[gpu_batch] code='5*10' n=328
+[gpu_batch] code='5*10' n=355
+[gpu_batch] code='5*10' n=383
+[gpu_batch] code='5*10' n=414
+[gpu_batch] code='5*10' n=447
+[gpu_batch] code='5*10' n=483
+[gpu_batch] code='5*10' n=522
+[gpu_batch] code='5*10' n=564
+[gpu_batch] code='5*10' n=609
+[gpu_batch] code='5*10' n=658
+[gpu_batch] code='5*10' n=711
+[gpu_batch] code='5*10' n=768
+[gpu_batch] code='5*10' n=830
+[gpu_batch] code='5*10' n=897
+[gpu_batch] code='5*10' n=969
+[gpu_batch] code='5*10' n=1047
+[gpu_batch] code='5*10' n=1131
+[gpu_batch] code='5*10' n=1222
+[gpu_batch] code='5*10' n=1320
+[gpu_batch] code='5*10' n=1426
+[gpu_batch] code='5*10' n=1541
+[gpu_batch] code='5*10' n=1665
+[gpu_batch] code='5*10' n=1799
+[gpu_batch] code='5*10' n=1943
+[gpu_batch] code='5*10' n=2099
+[gpu_batch] code='5*10' n=2268
+[gpu_batch] code='5*10' n=2450
+[gpu_batch] code='5*10' n=2647
+[gpu_batch] code='5*10' n=2860
+[gpu_batch] code='5*10' n=3089
+[gpu_batch] code='5*10' n=3338
+[gpu_batch] code='5*10' n=3606
+[gpu_batch] code='5*10' n=3895
+[gpu_batch] code='5*10' n=4208
+[gpu_batch] code='5*10' n=4546
+[gpu_batch] code='5*10' n=4912
+[gpu_batch] code='5*10' n=5306
+[gpu_batch] code='5*10' n=5733
+[gpu_batch] code='5*10' n=6193
+[gpu_batch] code='5*10' n=6691
+[gpu_batch] code='5*10' n=7228
+[gpu_batch] code='5*10' n=7809
+[gpu_batch] code='5*10' n=8436
+[gpu_batch] code='5*10' n=9114
+[gpu_batch] code='5*10' n=9846
+[gpu_batch] code='5*10' n=10637
+[gpu_batch] code='5*10' n=11492
+[gpu_batch] code='5*10' n=12415
+[gpu_batch] code='5*10' n=13412
+[gpu_batch] code='5*10' n=14490
+[gpu_batch] code='5*10' n=15654
+[gpu_batch] code='5*10' n=16911
+[gpu_batch] code='5*10' n=18270
+[gpu_batch] code='5*10' n=19737
+[gpu_batch] code='5*10' n=21323
+[gpu_batch] code='5*10' n=23036
+[gpu_batch] code='5*10' n=24887
+[gpu_batch] code='5*10' n=26886
+[gpu_batch] code='5*10' n=29046
+[gpu_batch] code='5*10' n=31379
+[gpu_batch] code='5*10' n=33900
+[gpu_batch] code='5*10' n=36623
+[gpu_batch] code='5*10' n=39565
+[gpu_batch] code='5*10' n=42743
+[gpu_batch] code='5*10' n=46177
+[gpu_batch] code='5*10' n=49886
+[gpu_batch] code='5*10' n=53894
+[gpu_batch] code='5*10' n=58223
+[gpu_batch] code='5*10' n=62901
+[gpu_batch] code='5*10' n=67953
+[gpu_batch] code='5*10' n=73412
+[gpu_batch] code='5*10' n=79310
+[gpu_batch] code='5*10' n=85681
+[gpu_batch] code='5*10' n=92564
+[gpu_batch] code='5*10' n=100000
+[cpu_batch] code='500/10' n=1
+[cpu_batch] code='500/10' n=2
+[cpu_batch] code='500/10' n=3
+[cpu_batch] code='500/10' n=4
+[cpu_batch] code='500/10' n=5
+[cpu_batch] code='500/10' n=6
+[cpu_batch] code='500/10' n=7
+[cpu_batch] code='500/10' n=8
+[cpu_batch] code='500/10' n=9
+[cpu_batch] code='500/10' n=10
+[cpu_batch] code='500/10' n=11
+[cpu_batch] code='500/10' n=12
+[cpu_batch] code='500/10' n=13
+[cpu_batch] code='500/10' n=14
+[cpu_batch] code='500/10' n=16
+[cpu_batch] code='500/10' n=17
+[cpu_batch] code='500/10' n=18
+[cpu_batch] code='500/10' n=20
+[cpu_batch] code='500/10' n=21
+[cpu_batch] code='500/10' n=23
+[cpu_batch] code='500/10' n=25
+[cpu_batch] code='500/10' n=27
+[cpu_batch] code='500/10' n=29
+[cpu_batch] code='500/10' n=32
+[cpu_batch] code='500/10' n=34
+[cpu_batch] code='500/10' n=37
+[cpu_batch] code='500/10' n=40
+[cpu_batch] code='500/10' n=44
+[cpu_batch] code='500/10' n=47
+[cpu_batch] code='500/10' n=51
+[cpu_batch] code='500/10' n=55
+[cpu_batch] code='500/10' n=60
+[cpu_batch] code='500/10' n=64
+[cpu_batch] code='500/10' n=70
+[cpu_batch] code='500/10' n=75
+[cpu_batch] code='500/10' n=81
+[cpu_batch] code='500/10' n=88
+[cpu_batch] code='500/10' n=95
+[cpu_batch] code='500/10' n=103
+[cpu_batch] code='500/10' n=111
+[cpu_batch] code='500/10' n=120
+[cpu_batch] code='500/10' n=130
+[cpu_batch] code='500/10' n=140
+[cpu_batch] code='500/10' n=151
+[cpu_batch] code='500/10' n=163
+[cpu_batch] code='500/10' n=177
+[cpu_batch] code='500/10' n=191
+[cpu_batch] code='500/10' n=206
+[cpu_batch] code='500/10' n=223
+[cpu_batch] code='500/10' n=241
+[cpu_batch] code='500/10' n=260
+[cpu_batch] code='500/10' n=281
+[cpu_batch] code='500/10' n=304
+[cpu_batch] code='500/10' n=328
+[cpu_batch] code='500/10' n=355
+[cpu_batch] code='500/10' n=383
+[cpu_batch] code='500/10' n=414
+[cpu_batch] code='500/10' n=447
+[cpu_batch] code='500/10' n=483
+[cpu_batch] code='500/10' n=522
+[cpu_batch] code='500/10' n=564
+[cpu_batch] code='500/10' n=609
+[cpu_batch] code='500/10' n=658
+[cpu_batch] code='500/10' n=711
+[cpu_batch] code='500/10' n=768
+[cpu_batch] code='500/10' n=830
+[cpu_batch] code='500/10' n=897
+[cpu_batch] code='500/10' n=969
+[cpu_batch] code='500/10' n=1047
+[cpu_batch] code='500/10' n=1131
+[cpu_batch] code='500/10' n=1222
+[cpu_batch] code='500/10' n=1320
+[cpu_batch] code='500/10' n=1426
+[cpu_batch] code='500/10' n=1541
+[cpu_batch] code='500/10' n=1665
+[cpu_batch] code='500/10' n=1799
+[cpu_batch] code='500/10' n=1943
+[cpu_batch] code='500/10' n=2099
+[cpu_batch] code='500/10' n=2268
+[cpu_batch] code='500/10' n=2450
+[cpu_batch] code='500/10' n=2647
+[cpu_batch] code='500/10' n=2860
+[cpu_batch] code='500/10' n=3089
+[cpu_batch] code='500/10' n=3338
+[cpu_batch] code='500/10' n=3606
+[cpu_batch] code='500/10' n=3895
+[cpu_batch] code='500/10' n=4208
+[cpu_batch] code='500/10' n=4546
+[cpu_batch] code='500/10' n=4912
+[cpu_batch] code='500/10' n=5306
+[cpu_batch] code='500/10' n=5733
+[cpu_batch] code='500/10' n=6193
+[cpu_batch] code='500/10' n=6691
+[cpu_batch] code='500/10' n=7228
+[cpu_batch] code='500/10' n=7809
+[cpu_batch] code='500/10' n=8436
+[cpu_batch] code='500/10' n=9114
+[cpu_batch] code='500/10' n=9846
+[cpu_batch] code='500/10' n=10637
+[cpu_batch] code='500/10' n=11492
+[cpu_batch] code='500/10' n=12415
+[cpu_batch] code='500/10' n=13412
+[cpu_batch] code='500/10' n=14490
+[cpu_batch] code='500/10' n=15654
+[cpu_batch] code='500/10' n=16911
+[cpu_batch] code='500/10' n=18270
+[cpu_batch] code='500/10' n=19737
+[cpu_batch] code='500/10' n=21323
+[cpu_batch] code='500/10' n=23036
+[cpu_batch] code='500/10' n=24887
+[cpu_batch] code='500/10' n=26886
+[cpu_batch] code='500/10' n=29046
+[cpu_batch] code='500/10' n=31379
+[cpu_batch] code='500/10' n=33900
+[cpu_batch] code='500/10' n=36623
+[cpu_batch] code='500/10' n=39565
+[cpu_batch] code='500/10' n=42743
+[cpu_batch] code='500/10' n=46177
+[cpu_batch] code='500/10' n=49886
+[cpu_batch] code='500/10' n=53894
+[cpu_batch] code='500/10' n=58223
+[cpu_batch] code='500/10' n=62901
+[cpu_batch] code='500/10' n=67953
+[cpu_batch] code='500/10' n=73412
+[cpu_batch] code='500/10' n=79310
+[cpu_batch] code='500/10' n=85681
+[cpu_batch] code='500/10' n=92564
+[cpu_batch] code='500/10' n=100000
+[gpu_batch] code='500/10' n=1
+[gpu_batch] code='500/10' n=2
+[gpu_batch] code='500/10' n=3
+[gpu_batch] code='500/10' n=4
+[gpu_batch] code='500/10' n=5
+[gpu_batch] code='500/10' n=6
+[gpu_batch] code='500/10' n=7
+[gpu_batch] code='500/10' n=8
+[gpu_batch] code='500/10' n=9
+[gpu_batch] code='500/10' n=10
+[gpu_batch] code='500/10' n=11
+[gpu_batch] code='500/10' n=12
+[gpu_batch] code='500/10' n=13
+[gpu_batch] code='500/10' n=14
+[gpu_batch] code='500/10' n=16
+[gpu_batch] code='500/10' n=17
+[gpu_batch] code='500/10' n=18
+[gpu_batch] code='500/10' n=20
+[gpu_batch] code='500/10' n=21
+[gpu_batch] code='500/10' n=23
+[gpu_batch] code='500/10' n=25
+[gpu_batch] code='500/10' n=27
+[gpu_batch] code='500/10' n=29
+[gpu_batch] code='500/10' n=32
+[gpu_batch] code='500/10' n=34
+[gpu_batch] code='500/10' n=37
+[gpu_batch] code='500/10' n=40
+[gpu_batch] code='500/10' n=44
+[gpu_batch] code='500/10' n=47
+[gpu_batch] code='500/10' n=51
+[gpu_batch] code='500/10' n=55
+[gpu_batch] code='500/10' n=60
+[gpu_batch] code='500/10' n=64
+[gpu_batch] code='500/10' n=70
+[gpu_batch] code='500/10' n=75
+[gpu_batch] code='500/10' n=81
+[gpu_batch] code='500/10' n=88
+[gpu_batch] code='500/10' n=95
+[gpu_batch] code='500/10' n=103
+[gpu_batch] code='500/10' n=111
+[gpu_batch] code='500/10' n=120
+[gpu_batch] code='500/10' n=130
+[gpu_batch] code='500/10' n=140
+[gpu_batch] code='500/10' n=151
+[gpu_batch] code='500/10' n=163
+[gpu_batch] code='500/10' n=177
+[gpu_batch] code='500/10' n=191
+[gpu_batch] code='500/10' n=206
+[gpu_batch] code='500/10' n=223
+[gpu_batch] code='500/10' n=241
+[gpu_batch] code='500/10' n=260
+[gpu_batch] code='500/10' n=281
+[gpu_batch] code='500/10' n=304
+[gpu_batch] code='500/10' n=328
+[gpu_batch] code='500/10' n=355
+[gpu_batch] code='500/10' n=383
+[gpu_batch] code='500/10' n=414
+[gpu_batch] code='500/10' n=447
+[gpu_batch] code='500/10' n=483
+[gpu_batch] code='500/10' n=522
+[gpu_batch] code='500/10' n=564
+[gpu_batch] code='500/10' n=609
+[gpu_batch] code='500/10' n=658
+[gpu_batch] code='500/10' n=711
+[gpu_batch] code='500/10' n=768
+[gpu_batch] code='500/10' n=830
+[gpu_batch] code='500/10' n=897
+[gpu_batch] code='500/10' n=969
+[gpu_batch] code='500/10' n=1047
+[gpu_batch] code='500/10' n=1131
+[gpu_batch] code='500/10' n=1222
+[gpu_batch] code='500/10' n=1320
+[gpu_batch] code='500/10' n=1426
+[gpu_batch] code='500/10' n=1541
+[gpu_batch] code='500/10' n=1665
+[gpu_batch] code='500/10' n=1799
+[gpu_batch] code='500/10' n=1943
+[gpu_batch] code='500/10' n=2099
+[gpu_batch] code='500/10' n=2268
+[gpu_batch] code='500/10' n=2450
+[gpu_batch] code='500/10' n=2647
+[gpu_batch] code='500/10' n=2860
+[gpu_batch] code='500/10' n=3089
+[gpu_batch] code='500/10' n=3338
+[gpu_batch] code='500/10' n=3606
+[gpu_batch] code='500/10' n=3895
+[gpu_batch] code='500/10' n=4208
+[gpu_batch] code='500/10' n=4546
+[gpu_batch] code='500/10' n=4912
+[gpu_batch] code='500/10' n=5306
+[gpu_batch] code='500/10' n=5733
+[gpu_batch] code='500/10' n=6193
+[gpu_batch] code='500/10' n=6691
+[gpu_batch] code='500/10' n=7228
+[gpu_batch] code='500/10' n=7809
+[gpu_batch] code='500/10' n=8436
+[gpu_batch] code='500/10' n=9114
+[gpu_batch] code='500/10' n=9846
+[gpu_batch] code='500/10' n=10637
+[gpu_batch] code='500/10' n=11492
+[gpu_batch] code='500/10' n=12415
+[gpu_batch] code='500/10' n=13412
+[gpu_batch] code='500/10' n=14490
+[gpu_batch] code='500/10' n=15654
+[gpu_batch] code='500/10' n=16911
+[gpu_batch] code='500/10' n=18270
+[gpu_batch] code='500/10' n=19737
+[gpu_batch] code='500/10' n=21323
+[gpu_batch] code='500/10' n=23036
+[gpu_batch] code='500/10' n=24887
+[gpu_batch] code='500/10' n=26886
+[gpu_batch] code='500/10' n=29046
+[gpu_batch] code='500/10' n=31379
+[gpu_batch] code='500/10' n=33900
+[gpu_batch] code='500/10' n=36623
+[gpu_batch] code='500/10' n=39565
+[gpu_batch] code='500/10' n=42743
+[gpu_batch] code='500/10' n=46177
+[gpu_batch] code='500/10' n=49886
+[gpu_batch] code='500/10' n=53894
+[gpu_batch] code='500/10' n=58223
+[gpu_batch] code='500/10' n=62901
+[gpu_batch] code='500/10' n=67953
+[gpu_batch] code='500/10' n=73412
+[gpu_batch] code='500/10' n=79310
+[gpu_batch] code='500/10' n=85681
+[gpu_batch] code='500/10' n=92564
+[gpu_batch] code='500/10' n=100000
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=1
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=2
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=3
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=4
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=5
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=6
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=7
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=8
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=9
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=10
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=11
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=12
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=13
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=14
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=16
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=17
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=18
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=20
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=21
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=23
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=25
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=27
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=29
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=32
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=34
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=37
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=40
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=44
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=47
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=51
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=55
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=60
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=64
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=70
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=75
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=81
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=88
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=95
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=103
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=111
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=120
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=130
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=140
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=151
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=163
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=177
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=191
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=206
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=223
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=241
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=260
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=281
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=304
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=328
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=355
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=383
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=414
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=447
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=483
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=522
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=564
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=609
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=658
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=711
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=768
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=830
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=897
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=969
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=1047
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=1131
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=1222
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=1320
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=1426
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=1541
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=1665
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=1799
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=1943
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=2099
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=2268
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=2450
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=2647
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=2860
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=3089
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=3338
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=3606
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=3895
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=4208
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=4546
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=4912
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=5306
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=5733
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=6193
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=6691
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=7228
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=7809
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=8436
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=9114
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=9846
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=10637
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=11492
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=12415
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=13412
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=14490
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=15654
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=16911
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=18270
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=19737
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=21323
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=23036
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=24887
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=26886
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=29046
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=31379
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=33900
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=36623
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=39565
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=42743
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=46177
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=49886
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=53894
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=58223
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=62901
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=67953
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=73412
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=79310
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=85681
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=92564
+[cpu_batch] code='(a + 2) * (b - 3) / 4' n=100000
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=1
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=2
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=3
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=4
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=5
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=6
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=7
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=8
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=9
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=10
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=11
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=12
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=13
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=14
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=16
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=17
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=18
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=20
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=21
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=23
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=25
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=27
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=29
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=32
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=34
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=37
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=40
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=44
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=47
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=51
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=55
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=60
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=64
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=70
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=75
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=81
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=88
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=95
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=103
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=111
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=120
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=130
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=140
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=151
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=163
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=177
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=191
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=206
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=223
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=241
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=260
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=281
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=304
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=328
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=355
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=383
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=414
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=447
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=483
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=522
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=564
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=609
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=658
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=711
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=768
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=830
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=897
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=969
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=1047
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=1131
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=1222
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=1320
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=1426
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=1541
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=1665
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=1799
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=1943
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=2099
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=2268
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=2450
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=2647
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=2860
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=3089
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=3338
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=3606
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=3895
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=4208
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=4546
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=4912
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=5306
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=5733
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=6193
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=6691
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=7228
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=7809
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=8436
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=9114
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=9846
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=10637
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=11492
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=12415
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=13412
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=14490
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=15654
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=16911
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=18270
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=19737
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=21323
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=23036
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=24887
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=26886
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=29046
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=31379
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=33900
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=36623
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=39565
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=42743
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=46177
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=49886
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=53894
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=58223
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=62901
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=67953
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=73412
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=79310
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=85681
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=92564
+[gpu_batch] code='(a + 2) * (b - 3) / 4' n=100000
+END OF BATCH BENCH
+
+START OF SINGLE BENCH
+[cpu_single] code='1 + 2' n=1
+[cpu_single] code='1 + 2' n=2
+[cpu_single] code='1 + 2' n=3
+[cpu_single] code='1 + 2' n=4
+[cpu_single] code='1 + 2' n=5
+[cpu_single] code='1 + 2' n=6
+[cpu_single] code='1 + 2' n=7
+[cpu_single] code='1 + 2' n=8
+[cpu_single] code='1 + 2' n=9
+[cpu_single] code='1 + 2' n=10
+[cpu_single] code='1 + 2' n=11
+[cpu_single] code='1 + 2' n=12
+[cpu_single] code='1 + 2' n=13
+[cpu_single] code='1 + 2' n=14
+[cpu_single] code='1 + 2' n=16
+[cpu_single] code='1 + 2' n=17
+[cpu_single] code='1 + 2' n=18
+[cpu_single] code='1 + 2' n=20
+[cpu_single] code='1 + 2' n=21
+[cpu_single] code='1 + 2' n=23
+[cpu_single] code='1 + 2' n=25
+[cpu_single] code='1 + 2' n=27
+[cpu_single] code='1 + 2' n=29
+[cpu_single] code='1 + 2' n=32
+[cpu_single] code='1 + 2' n=34
+[cpu_single] code='1 + 2' n=37
+[cpu_single] code='1 + 2' n=40
+[cpu_single] code='1 + 2' n=44
+[cpu_single] code='1 + 2' n=47
+[cpu_single] code='1 + 2' n=51
+[cpu_single] code='1 + 2' n=55
+[cpu_single] code='1 + 2' n=60
+[cpu_single] code='1 + 2' n=64
+[cpu_single] code='1 + 2' n=70
+[cpu_single] code='1 + 2' n=75
+[cpu_single] code='1 + 2' n=81
+[cpu_single] code='1 + 2' n=88
+[cpu_single] code='1 + 2' n=95
+[cpu_single] code='1 + 2' n=103
+[cpu_single] code='1 + 2' n=111
+[cpu_single] code='1 + 2' n=120
+[cpu_single] code='1 + 2' n=130
+[cpu_single] code='1 + 2' n=140
+[cpu_single] code='1 + 2' n=151
+[cpu_single] code='1 + 2' n=163
+[cpu_single] code='1 + 2' n=177
+[cpu_single] code='1 + 2' n=191
+[cpu_single] code='1 + 2' n=206
+[cpu_single] code='1 + 2' n=223
+[cpu_single] code='1 + 2' n=241
+[cpu_single] code='1 + 2' n=260
+[cpu_single] code='1 + 2' n=281
+[cpu_single] code='1 + 2' n=304
+[cpu_single] code='1 + 2' n=328
+[cpu_single] code='1 + 2' n=355
+[cpu_single] code='1 + 2' n=383
+[cpu_single] code='1 + 2' n=414
+[cpu_single] code='1 + 2' n=447
+[cpu_single] code='1 + 2' n=483
+[cpu_single] code='1 + 2' n=522
+[cpu_single] code='1 + 2' n=564
+[cpu_single] code='1 + 2' n=609
+[cpu_single] code='1 + 2' n=658
+[cpu_single] code='1 + 2' n=711
+[cpu_single] code='1 + 2' n=768
+[cpu_single] code='1 + 2' n=830
+[cpu_single] code='1 + 2' n=897
+[cpu_single] code='1 + 2' n=969
+[cpu_single] code='1 + 2' n=1047
+[cpu_single] code='1 + 2' n=1131
+[cpu_single] code='1 + 2' n=1222
+[cpu_single] code='1 + 2' n=1320
+[cpu_single] code='1 + 2' n=1426
+[cpu_single] code='1 + 2' n=1541
+[cpu_single] code='1 + 2' n=1665
+[cpu_single] code='1 + 2' n=1799
+[cpu_single] code='1 + 2' n=1943
+[cpu_single] code='1 + 2' n=2099
+[cpu_single] code='1 + 2' n=2268
+[cpu_single] code='1 + 2' n=2450
+[cpu_single] code='1 + 2' n=2647
+[cpu_single] code='1 + 2' n=2860
+[cpu_single] code='1 + 2' n=3089
+[cpu_single] code='1 + 2' n=3338
+[cpu_single] code='1 + 2' n=3606
+[cpu_single] code='1 + 2' n=3895
+[cpu_single] code='1 + 2' n=4208
+[cpu_single] code='1 + 2' n=4546
+[cpu_single] code='1 + 2' n=4912
+[cpu_single] code='1 + 2' n=5306
+[cpu_single] code='1 + 2' n=5733
+[cpu_single] code='1 + 2' n=6193
+[cpu_single] code='1 + 2' n=6691
+[cpu_single] code='1 + 2' n=7228
+[cpu_single] code='1 + 2' n=7809
+[cpu_single] code='1 + 2' n=8436
+[cpu_single] code='1 + 2' n=9114
+[cpu_single] code='1 + 2' n=9846
+[cpu_single] code='1 + 2' n=10637
+[cpu_single] code='1 + 2' n=11492
+[cpu_single] code='1 + 2' n=12415
+[cpu_single] code='1 + 2' n=13412
+[cpu_single] code='1 + 2' n=14490
+[cpu_single] code='1 + 2' n=15654
+[cpu_single] code='1 + 2' n=16911
+[cpu_single] code='1 + 2' n=18270
+[cpu_single] code='1 + 2' n=19737
+[cpu_single] code='1 + 2' n=21323
+[cpu_single] code='1 + 2' n=23036
+[cpu_single] code='1 + 2' n=24887
+[cpu_single] code='1 + 2' n=26886
+[cpu_single] code='1 + 2' n=29046
+[cpu_single] code='1 + 2' n=31379
+[cpu_single] code='1 + 2' n=33900
+[cpu_single] code='1 + 2' n=36623
+[cpu_single] code='1 + 2' n=39565
+[cpu_single] code='1 + 2' n=42743
+[cpu_single] code='1 + 2' n=46177
+[cpu_single] code='1 + 2' n=49886
+[cpu_single] code='1 + 2' n=53894
+[cpu_single] code='1 + 2' n=58223
+[cpu_single] code='1 + 2' n=62901
+[cpu_single] code='1 + 2' n=67953
+[cpu_single] code='1 + 2' n=73412
+[cpu_single] code='1 + 2' n=79310
+[cpu_single] code='1 + 2' n=85681
+[cpu_single] code='1 + 2' n=92564
+[cpu_single] code='1 + 2' n=100000
+[gpu_single] code='1 + 2' n=1
+[gpu_single] code='1 + 2' n=2
+[gpu_single] code='1 + 2' n=3
+[gpu_single] code='1 + 2' n=4
+[gpu_single] code='1 + 2' n=5
+[gpu_single] code='1 + 2' n=6
+[gpu_single] code='1 + 2' n=7
+[gpu_single] code='1 + 2' n=8
+[gpu_single] code='1 + 2' n=9
+[gpu_single] code='1 + 2' n=10
+[gpu_single] code='1 + 2' n=11
+[gpu_single] code='1 + 2' n=12
+[gpu_single] code='1 + 2' n=13
+[gpu_single] code='1 + 2' n=14
+[gpu_single] code='1 + 2' n=16
+[gpu_single] code='1 + 2' n=17
+[gpu_single] code='1 + 2' n=18
+[gpu_single] code='1 + 2' n=20
+[gpu_single] code='1 + 2' n=21
+[gpu_single] code='1 + 2' n=23
+[gpu_single] code='1 + 2' n=25
+[gpu_single] code='1 + 2' n=27
+[gpu_single] code='1 + 2' n=29
+[gpu_single] code='1 + 2' n=32
+[gpu_single] code='1 + 2' n=34
+[gpu_single] code='1 + 2' n=37
+[gpu_single] code='1 + 2' n=40
+[gpu_single] code='1 + 2' n=44
+[gpu_single] code='1 + 2' n=47
+[gpu_single] code='1 + 2' n=51
+[gpu_single] code='1 + 2' n=55
+[gpu_single] code='1 + 2' n=60
+[gpu_single] code='1 + 2' n=64
+[gpu_single] code='1 + 2' n=70
+[gpu_single] code='1 + 2' n=75
+[gpu_single] code='1 + 2' n=81
+[gpu_single] code='1 + 2' n=88
+[gpu_single] code='1 + 2' n=95
+[gpu_single] code='1 + 2' n=103
+[gpu_single] code='1 + 2' n=111
+[gpu_single] code='1 + 2' n=120
+[gpu_single] code='1 + 2' n=130
+[gpu_single] code='1 + 2' n=140
+[gpu_single] code='1 + 2' n=151
+[gpu_single] code='1 + 2' n=163
+[gpu_single] code='1 + 2' n=177
+[gpu_single] code='1 + 2' n=191
+[gpu_single] code='1 + 2' n=206
+[gpu_single] code='1 + 2' n=223
+[gpu_single] code='1 + 2' n=241
+[gpu_single] code='1 + 2' n=260
+[gpu_single] code='1 + 2' n=281
+[gpu_single] code='1 + 2' n=304
+[gpu_single] code='1 + 2' n=328
+[gpu_single] code='1 + 2' n=355
+[gpu_single] code='1 + 2' n=383
+[gpu_single] code='1 + 2' n=414
+[gpu_single] code='1 + 2' n=447
+[gpu_single] code='1 + 2' n=483
+[gpu_single] code='1 + 2' n=522
+[gpu_single] code='1 + 2' n=564
+[gpu_single] code='1 + 2' n=609
+[gpu_single] code='1 + 2' n=658
+[gpu_single] code='1 + 2' n=711
+[gpu_single] code='1 + 2' n=768
+[gpu_single] code='1 + 2' n=830
+[gpu_single] code='1 + 2' n=897
+[gpu_single] code='1 + 2' n=969
+[gpu_single] code='1 + 2' n=1047
+[gpu_single] code='1 + 2' n=1131
+[gpu_single] code='1 + 2' n=1222
+[gpu_single] code='1 + 2' n=1320
+[gpu_single] code='1 + 2' n=1426
+[gpu_single] code='1 + 2' n=1541
+[gpu_single] code='1 + 2' n=1665
+[gpu_single] code='1 + 2' n=1799
+[gpu_single] code='1 + 2' n=1943
+[gpu_single] code='1 + 2' n=2099
+[gpu_single] code='1 + 2' n=2268
+[gpu_single] code='1 + 2' n=2450
+[gpu_single] code='1 + 2' n=2647
+[gpu_single] code='1 + 2' n=2860
+[gpu_single] code='1 + 2' n=3089
+[gpu_single] code='1 + 2' n=3338
+[gpu_single] code='1 + 2' n=3606
+[gpu_single] code='1 + 2' n=3895
+[gpu_single] code='1 + 2' n=4208
+[gpu_single] code='1 + 2' n=4546
+[gpu_single] code='1 + 2' n=4912
+[gpu_single] code='1 + 2' n=5306
+[gpu_single] code='1 + 2' n=5733
+[gpu_single] code='1 + 2' n=6193
+[gpu_single] code='1 + 2' n=6691
+[gpu_single] code='1 + 2' n=7228
+[gpu_single] code='1 + 2' n=7809
+[gpu_single] code='1 + 2' n=8436
+[gpu_single] code='1 + 2' n=9114
+[gpu_single] code='1 + 2' n=9846
+[gpu_single] code='1 + 2' n=10637
+[gpu_single] code='1 + 2' n=11492
+[gpu_single] code='1 + 2' n=12415
+[gpu_single] code='1 + 2' n=13412
+[gpu_single] code='1 + 2' n=14490
+[gpu_single] code='1 + 2' n=15654
+[gpu_single] code='1 + 2' n=16911
+[gpu_single] code='1 + 2' n=18270
+[gpu_single] code='1 + 2' n=19737
+[gpu_single] code='1 + 2' n=21323
+[gpu_single] code='1 + 2' n=23036
+[gpu_single] code='1 + 2' n=24887
+[gpu_single] code='1 + 2' n=26886
+[gpu_single] code='1 + 2' n=29046
+[gpu_single] code='1 + 2' n=31379
+[gpu_single] code='1 + 2' n=33900
+[gpu_single] code='1 + 2' n=36623
+[gpu_single] code='1 + 2' n=39565
+[gpu_single] code='1 + 2' n=42743
+[gpu_single] code='1 + 2' n=46177
+[gpu_single] code='1 + 2' n=49886
+[gpu_single] code='1 + 2' n=53894
+[gpu_single] code='1 + 2' n=58223
+[gpu_single] code='1 + 2' n=62901
+[gpu_single] code='1 + 2' n=67953
+[gpu_single] code='1 + 2' n=73412
+[gpu_single] code='1 + 2' n=79310
+[gpu_single] code='1 + 2' n=85681
+[gpu_single] code='1 + 2' n=92564
+[gpu_single] code='1 + 2' n=100000
+[cpu_single] code='10 - 5' n=1
+[cpu_single] code='10 - 5' n=2
+[cpu_single] code='10 - 5' n=3
+[cpu_single] code='10 - 5' n=4
+[cpu_single] code='10 - 5' n=5
+[cpu_single] code='10 - 5' n=6
+[cpu_single] code='10 - 5' n=7
+[cpu_single] code='10 - 5' n=8
+[cpu_single] code='10 - 5' n=9
+[cpu_single] code='10 - 5' n=10
+[cpu_single] code='10 - 5' n=11
+[cpu_single] code='10 - 5' n=12
+[cpu_single] code='10 - 5' n=13
+[cpu_single] code='10 - 5' n=14
+[cpu_single] code='10 - 5' n=16
+[cpu_single] code='10 - 5' n=17
+[cpu_single] code='10 - 5' n=18
+[cpu_single] code='10 - 5' n=20
+[cpu_single] code='10 - 5' n=21
+[cpu_single] code='10 - 5' n=23
+[cpu_single] code='10 - 5' n=25
+[cpu_single] code='10 - 5' n=27
+[cpu_single] code='10 - 5' n=29
+[cpu_single] code='10 - 5' n=32
+[cpu_single] code='10 - 5' n=34
+[cpu_single] code='10 - 5' n=37
+[cpu_single] code='10 - 5' n=40
+[cpu_single] code='10 - 5' n=44
+[cpu_single] code='10 - 5' n=47
+[cpu_single] code='10 - 5' n=51
+[cpu_single] code='10 - 5' n=55
+[cpu_single] code='10 - 5' n=60
+[cpu_single] code='10 - 5' n=64
+[cpu_single] code='10 - 5' n=70
+[cpu_single] code='10 - 5' n=75
+[cpu_single] code='10 - 5' n=81
+[cpu_single] code='10 - 5' n=88
+[cpu_single] code='10 - 5' n=95
+[cpu_single] code='10 - 5' n=103
+[cpu_single] code='10 - 5' n=111
+[cpu_single] code='10 - 5' n=120
+[cpu_single] code='10 - 5' n=130
+[cpu_single] code='10 - 5' n=140
+[cpu_single] code='10 - 5' n=151
+[cpu_single] code='10 - 5' n=163
+[cpu_single] code='10 - 5' n=177
+[cpu_single] code='10 - 5' n=191
+[cpu_single] code='10 - 5' n=206
+[cpu_single] code='10 - 5' n=223
+[cpu_single] code='10 - 5' n=241
+[cpu_single] code='10 - 5' n=260
+[cpu_single] code='10 - 5' n=281
+[cpu_single] code='10 - 5' n=304
+[cpu_single] code='10 - 5' n=328
+[cpu_single] code='10 - 5' n=355
+[cpu_single] code='10 - 5' n=383
+[cpu_single] code='10 - 5' n=414
+[cpu_single] code='10 - 5' n=447
+[cpu_single] code='10 - 5' n=483
+[cpu_single] code='10 - 5' n=522
+[cpu_single] code='10 - 5' n=564
+[cpu_single] code='10 - 5' n=609
+[cpu_single] code='10 - 5' n=658
+[cpu_single] code='10 - 5' n=711
+[cpu_single] code='10 - 5' n=768
+[cpu_single] code='10 - 5' n=830
+[cpu_single] code='10 - 5' n=897
+[cpu_single] code='10 - 5' n=969
+[cpu_single] code='10 - 5' n=1047
+[cpu_single] code='10 - 5' n=1131
+[cpu_single] code='10 - 5' n=1222
+[cpu_single] code='10 - 5' n=1320
+[cpu_single] code='10 - 5' n=1426
+[cpu_single] code='10 - 5' n=1541
+[cpu_single] code='10 - 5' n=1665
+[cpu_single] code='10 - 5' n=1799
+[cpu_single] code='10 - 5' n=1943
+[cpu_single] code='10 - 5' n=2099
+[cpu_single] code='10 - 5' n=2268
+[cpu_single] code='10 - 5' n=2450
+[cpu_single] code='10 - 5' n=2647
+[cpu_single] code='10 - 5' n=2860
+[cpu_single] code='10 - 5' n=3089
+[cpu_single] code='10 - 5' n=3338
+[cpu_single] code='10 - 5' n=3606
+[cpu_single] code='10 - 5' n=3895
+[cpu_single] code='10 - 5' n=4208
+[cpu_single] code='10 - 5' n=4546
+[cpu_single] code='10 - 5' n=4912
+[cpu_single] code='10 - 5' n=5306
+[cpu_single] code='10 - 5' n=5733
+[cpu_single] code='10 - 5' n=6193
+[cpu_single] code='10 - 5' n=6691
+[cpu_single] code='10 - 5' n=7228
+[cpu_single] code='10 - 5' n=7809
+[cpu_single] code='10 - 5' n=8436
+[cpu_single] code='10 - 5' n=9114
+[cpu_single] code='10 - 5' n=9846
+[cpu_single] code='10 - 5' n=10637
+[cpu_single] code='10 - 5' n=11492
+[cpu_single] code='10 - 5' n=12415
+[cpu_single] code='10 - 5' n=13412
+[cpu_single] code='10 - 5' n=14490
+[cpu_single] code='10 - 5' n=15654
+[cpu_single] code='10 - 5' n=16911
+[cpu_single] code='10 - 5' n=18270
+[cpu_single] code='10 - 5' n=19737
+[cpu_single] code='10 - 5' n=21323
+[cpu_single] code='10 - 5' n=23036
+[cpu_single] code='10 - 5' n=24887
+[cpu_single] code='10 - 5' n=26886
+[cpu_single] code='10 - 5' n=29046
+[cpu_single] code='10 - 5' n=31379
+[cpu_single] code='10 - 5' n=33900
+[cpu_single] code='10 - 5' n=36623
+[cpu_single] code='10 - 5' n=39565
+[cpu_single] code='10 - 5' n=42743
+[cpu_single] code='10 - 5' n=46177
+[cpu_single] code='10 - 5' n=49886
+[cpu_single] code='10 - 5' n=53894
+[cpu_single] code='10 - 5' n=58223
+[cpu_single] code='10 - 5' n=62901
+[cpu_single] code='10 - 5' n=67953
+[cpu_single] code='10 - 5' n=73412
+[cpu_single] code='10 - 5' n=79310
+[cpu_single] code='10 - 5' n=85681
+[cpu_single] code='10 - 5' n=92564
+[cpu_single] code='10 - 5' n=100000
+[gpu_single] code='10 - 5' n=1
+[gpu_single] code='10 - 5' n=2
+[gpu_single] code='10 - 5' n=3
+[gpu_single] code='10 - 5' n=4
+[gpu_single] code='10 - 5' n=5
+[gpu_single] code='10 - 5' n=6
+[gpu_single] code='10 - 5' n=7
+[gpu_single] code='10 - 5' n=8
+[gpu_single] code='10 - 5' n=9
+[gpu_single] code='10 - 5' n=10
+[gpu_single] code='10 - 5' n=11
+[gpu_single] code='10 - 5' n=12
+[gpu_single] code='10 - 5' n=13
+[gpu_single] code='10 - 5' n=14
+[gpu_single] code='10 - 5' n=16
+[gpu_single] code='10 - 5' n=17
+[gpu_single] code='10 - 5' n=18
+[gpu_single] code='10 - 5' n=20
+[gpu_single] code='10 - 5' n=21
+[gpu_single] code='10 - 5' n=23
+[gpu_single] code='10 - 5' n=25
+[gpu_single] code='10 - 5' n=27
+[gpu_single] code='10 - 5' n=29
+[gpu_single] code='10 - 5' n=32
+[gpu_single] code='10 - 5' n=34
+[gpu_single] code='10 - 5' n=37
+[gpu_single] code='10 - 5' n=40
+[gpu_single] code='10 - 5' n=44
+[gpu_single] code='10 - 5' n=47
+[gpu_single] code='10 - 5' n=51
+[gpu_single] code='10 - 5' n=55
+[gpu_single] code='10 - 5' n=60
+[gpu_single] code='10 - 5' n=64
+[gpu_single] code='10 - 5' n=70
+[gpu_single] code='10 - 5' n=75
+[gpu_single] code='10 - 5' n=81
+[gpu_single] code='10 - 5' n=88
+[gpu_single] code='10 - 5' n=95
+[gpu_single] code='10 - 5' n=103
+[gpu_single] code='10 - 5' n=111
+[gpu_single] code='10 - 5' n=120
+[gpu_single] code='10 - 5' n=130
+[gpu_single] code='10 - 5' n=140
+[gpu_single] code='10 - 5' n=151
+[gpu_single] code='10 - 5' n=163
+[gpu_single] code='10 - 5' n=177
+[gpu_single] code='10 - 5' n=191
+[gpu_single] code='10 - 5' n=206
+[gpu_single] code='10 - 5' n=223
+[gpu_single] code='10 - 5' n=241
+[gpu_single] code='10 - 5' n=260
+[gpu_single] code='10 - 5' n=281
+[gpu_single] code='10 - 5' n=304
+[gpu_single] code='10 - 5' n=328
+[gpu_single] code='10 - 5' n=355
+[gpu_single] code='10 - 5' n=383
+[gpu_single] code='10 - 5' n=414
+[gpu_single] code='10 - 5' n=447
+[gpu_single] code='10 - 5' n=483
+[gpu_single] code='10 - 5' n=522
+[gpu_single] code='10 - 5' n=564
+[gpu_single] code='10 - 5' n=609
+[gpu_single] code='10 - 5' n=658
+[gpu_single] code='10 - 5' n=711
+[gpu_single] code='10 - 5' n=768
+[gpu_single] code='10 - 5' n=830
+[gpu_single] code='10 - 5' n=897
+[gpu_single] code='10 - 5' n=969
+[gpu_single] code='10 - 5' n=1047
+[gpu_single] code='10 - 5' n=1131
+[gpu_single] code='10 - 5' n=1222
+[gpu_single] code='10 - 5' n=1320
+[gpu_single] code='10 - 5' n=1426
+[gpu_single] code='10 - 5' n=1541
+[gpu_single] code='10 - 5' n=1665
+[gpu_single] code='10 - 5' n=1799
+[gpu_single] code='10 - 5' n=1943
+[gpu_single] code='10 - 5' n=2099
+[gpu_single] code='10 - 5' n=2268
+[gpu_single] code='10 - 5' n=2450
+[gpu_single] code='10 - 5' n=2647
+[gpu_single] code='10 - 5' n=2860
+[gpu_single] code='10 - 5' n=3089
+[gpu_single] code='10 - 5' n=3338
+[gpu_single] code='10 - 5' n=3606
+[gpu_single] code='10 - 5' n=3895
+[gpu_single] code='10 - 5' n=4208
+[gpu_single] code='10 - 5' n=4546
+[gpu_single] code='10 - 5' n=4912
+[gpu_single] code='10 - 5' n=5306
+[gpu_single] code='10 - 5' n=5733
+[gpu_single] code='10 - 5' n=6193
+[gpu_single] code='10 - 5' n=6691
+[gpu_single] code='10 - 5' n=7228
+[gpu_single] code='10 - 5' n=7809
+[gpu_single] code='10 - 5' n=8436
+[gpu_single] code='10 - 5' n=9114
+[gpu_single] code='10 - 5' n=9846
+[gpu_single] code='10 - 5' n=10637
+[gpu_single] code='10 - 5' n=11492
+[gpu_single] code='10 - 5' n=12415
+[gpu_single] code='10 - 5' n=13412
+[gpu_single] code='10 - 5' n=14490
+[gpu_single] code='10 - 5' n=15654
+[gpu_single] code='10 - 5' n=16911
+[gpu_single] code='10 - 5' n=18270
+[gpu_single] code='10 - 5' n=19737
+[gpu_single] code='10 - 5' n=21323
+[gpu_single] code='10 - 5' n=23036
+[gpu_single] code='10 - 5' n=24887
+[gpu_single] code='10 - 5' n=26886
+[gpu_single] code='10 - 5' n=29046
+[gpu_single] code='10 - 5' n=31379
+[gpu_single] code='10 - 5' n=33900
+[gpu_single] code='10 - 5' n=36623
+[gpu_single] code='10 - 5' n=39565
+[gpu_single] code='10 - 5' n=42743
+[gpu_single] code='10 - 5' n=46177
+[gpu_single] code='10 - 5' n=49886
+[gpu_single] code='10 - 5' n=53894
+[gpu_single] code='10 - 5' n=58223
+[gpu_single] code='10 - 5' n=62901
+[gpu_single] code='10 - 5' n=67953
+[gpu_single] code='10 - 5' n=73412
+[gpu_single] code='10 - 5' n=79310
+[gpu_single] code='10 - 5' n=85681
+[gpu_single] code='10 - 5' n=92564
+[gpu_single] code='10 - 5' n=100000
+[cpu_single] code='5*10' n=1
+[cpu_single] code='5*10' n=2
+[cpu_single] code='5*10' n=3
+[cpu_single] code='5*10' n=4
+[cpu_single] code='5*10' n=5
+[cpu_single] code='5*10' n=6
+[cpu_single] code='5*10' n=7
+[cpu_single] code='5*10' n=8
+[cpu_single] code='5*10' n=9
+[cpu_single] code='5*10' n=10
+[cpu_single] code='5*10' n=11
+[cpu_single] code='5*10' n=12
+[cpu_single] code='5*10' n=13
+[cpu_single] code='5*10' n=14
+[cpu_single] code='5*10' n=16
+[cpu_single] code='5*10' n=17
+[cpu_single] code='5*10' n=18
+[cpu_single] code='5*10' n=20
+[cpu_single] code='5*10' n=21
+[cpu_single] code='5*10' n=23
+[cpu_single] code='5*10' n=25
+[cpu_single] code='5*10' n=27
+[cpu_single] code='5*10' n=29
+[cpu_single] code='5*10' n=32
+[cpu_single] code='5*10' n=34
+[cpu_single] code='5*10' n=37
+[cpu_single] code='5*10' n=40
+[cpu_single] code='5*10' n=44
+[cpu_single] code='5*10' n=47
+[cpu_single] code='5*10' n=51
+[cpu_single] code='5*10' n=55
+[cpu_single] code='5*10' n=60
+[cpu_single] code='5*10' n=64
+[cpu_single] code='5*10' n=70
+[cpu_single] code='5*10' n=75
+[cpu_single] code='5*10' n=81
+[cpu_single] code='5*10' n=88
+[cpu_single] code='5*10' n=95
+[cpu_single] code='5*10' n=103
+[cpu_single] code='5*10' n=111
+[cpu_single] code='5*10' n=120
+[cpu_single] code='5*10' n=130
+[cpu_single] code='5*10' n=140
+[cpu_single] code='5*10' n=151
+[cpu_single] code='5*10' n=163
+[cpu_single] code='5*10' n=177
+[cpu_single] code='5*10' n=191
+[cpu_single] code='5*10' n=206
+[cpu_single] code='5*10' n=223
+[cpu_single] code='5*10' n=241
+[cpu_single] code='5*10' n=260
+[cpu_single] code='5*10' n=281
+[cpu_single] code='5*10' n=304
+[cpu_single] code='5*10' n=328
+[cpu_single] code='5*10' n=355
+[cpu_single] code='5*10' n=383
+[cpu_single] code='5*10' n=414
+[cpu_single] code='5*10' n=447
+[cpu_single] code='5*10' n=483
+[cpu_single] code='5*10' n=522
+[cpu_single] code='5*10' n=564
+[cpu_single] code='5*10' n=609
+[cpu_single] code='5*10' n=658
+[cpu_single] code='5*10' n=711
+[cpu_single] code='5*10' n=768
+[cpu_single] code='5*10' n=830
+[cpu_single] code='5*10' n=897
+[cpu_single] code='5*10' n=969
+[cpu_single] code='5*10' n=1047
+[cpu_single] code='5*10' n=1131
+[cpu_single] code='5*10' n=1222
+[cpu_single] code='5*10' n=1320
+[cpu_single] code='5*10' n=1426
+[cpu_single] code='5*10' n=1541
+[cpu_single] code='5*10' n=1665
+[cpu_single] code='5*10' n=1799
+[cpu_single] code='5*10' n=1943
+[cpu_single] code='5*10' n=2099
+[cpu_single] code='5*10' n=2268
+[cpu_single] code='5*10' n=2450
+[cpu_single] code='5*10' n=2647
+[cpu_single] code='5*10' n=2860
+[cpu_single] code='5*10' n=3089
+[cpu_single] code='5*10' n=3338
+[cpu_single] code='5*10' n=3606
+[cpu_single] code='5*10' n=3895
+[cpu_single] code='5*10' n=4208
+[cpu_single] code='5*10' n=4546
+[cpu_single] code='5*10' n=4912
+[cpu_single] code='5*10' n=5306
+[cpu_single] code='5*10' n=5733
+[cpu_single] code='5*10' n=6193
+[cpu_single] code='5*10' n=6691
+[cpu_single] code='5*10' n=7228
+[cpu_single] code='5*10' n=7809
+[cpu_single] code='5*10' n=8436
+[cpu_single] code='5*10' n=9114
+[cpu_single] code='5*10' n=9846
+[cpu_single] code='5*10' n=10637
+[cpu_single] code='5*10' n=11492
+[cpu_single] code='5*10' n=12415
+[cpu_single] code='5*10' n=13412
+[cpu_single] code='5*10' n=14490
+[cpu_single] code='5*10' n=15654
+[cpu_single] code='5*10' n=16911
+[cpu_single] code='5*10' n=18270
+[cpu_single] code='5*10' n=19737
+[cpu_single] code='5*10' n=21323
+[cpu_single] code='5*10' n=23036
+[cpu_single] code='5*10' n=24887
+[cpu_single] code='5*10' n=26886
+[cpu_single] code='5*10' n=29046
+[cpu_single] code='5*10' n=31379
+[cpu_single] code='5*10' n=33900
+[cpu_single] code='5*10' n=36623
+[cpu_single] code='5*10' n=39565
+[cpu_single] code='5*10' n=42743
+[cpu_single] code='5*10' n=46177
+[cpu_single] code='5*10' n=49886
+[cpu_single] code='5*10' n=53894
+[cpu_single] code='5*10' n=58223
+[cpu_single] code='5*10' n=62901
+[cpu_single] code='5*10' n=67953
+[cpu_single] code='5*10' n=73412
+[cpu_single] code='5*10' n=79310
+[cpu_single] code='5*10' n=85681
+[cpu_single] code='5*10' n=92564
+[cpu_single] code='5*10' n=100000
+[gpu_single] code='5*10' n=1
+[gpu_single] code='5*10' n=2
+[gpu_single] code='5*10' n=3
+[gpu_single] code='5*10' n=4
+[gpu_single] code='5*10' n=5
+[gpu_single] code='5*10' n=6
+[gpu_single] code='5*10' n=7
+[gpu_single] code='5*10' n=8
+[gpu_single] code='5*10' n=9
+[gpu_single] code='5*10' n=10
+[gpu_single] code='5*10' n=11
+[gpu_single] code='5*10' n=12
+[gpu_single] code='5*10' n=13
+[gpu_single] code='5*10' n=14
+[gpu_single] code='5*10' n=16
+[gpu_single] code='5*10' n=17
+[gpu_single] code='5*10' n=18
+[gpu_single] code='5*10' n=20
+[gpu_single] code='5*10' n=21
+[gpu_single] code='5*10' n=23
+[gpu_single] code='5*10' n=25
+[gpu_single] code='5*10' n=27
+[gpu_single] code='5*10' n=29
+[gpu_single] code='5*10' n=32
+[gpu_single] code='5*10' n=34
+[gpu_single] code='5*10' n=37
+[gpu_single] code='5*10' n=40
+[gpu_single] code='5*10' n=44
+[gpu_single] code='5*10' n=47
+[gpu_single] code='5*10' n=51
+[gpu_single] code='5*10' n=55
+[gpu_single] code='5*10' n=60
+[gpu_single] code='5*10' n=64
+[gpu_single] code='5*10' n=70
+[gpu_single] code='5*10' n=75
+[gpu_single] code='5*10' n=81
+[gpu_single] code='5*10' n=88
+[gpu_single] code='5*10' n=95
+[gpu_single] code='5*10' n=103
+[gpu_single] code='5*10' n=111
+[gpu_single] code='5*10' n=120
+[gpu_single] code='5*10' n=130
+[gpu_single] code='5*10' n=140
+[gpu_single] code='5*10' n=151
+[gpu_single] code='5*10' n=163
+[gpu_single] code='5*10' n=177
+[gpu_single] code='5*10' n=191
+[gpu_single] code='5*10' n=206
+[gpu_single] code='5*10' n=223
+[gpu_single] code='5*10' n=241
+[gpu_single] code='5*10' n=260
+[gpu_single] code='5*10' n=281
+[gpu_single] code='5*10' n=304
+[gpu_single] code='5*10' n=328
+[gpu_single] code='5*10' n=355
+[gpu_single] code='5*10' n=383
+[gpu_single] code='5*10' n=414
+[gpu_single] code='5*10' n=447
+[gpu_single] code='5*10' n=483
+[gpu_single] code='5*10' n=522
+[gpu_single] code='5*10' n=564
+[gpu_single] code='5*10' n=609
+[gpu_single] code='5*10' n=658
+[gpu_single] code='5*10' n=711
+[gpu_single] code='5*10' n=768
+[gpu_single] code='5*10' n=830
+[gpu_single] code='5*10' n=897
+[gpu_single] code='5*10' n=969
+[gpu_single] code='5*10' n=1047
+[gpu_single] code='5*10' n=1131
+[gpu_single] code='5*10' n=1222
+[gpu_single] code='5*10' n=1320
+[gpu_single] code='5*10' n=1426
+[gpu_single] code='5*10' n=1541
+[gpu_single] code='5*10' n=1665
+[gpu_single] code='5*10' n=1799
+[gpu_single] code='5*10' n=1943
+[gpu_single] code='5*10' n=2099
+[gpu_single] code='5*10' n=2268
+[gpu_single] code='5*10' n=2450
+[gpu_single] code='5*10' n=2647
+[gpu_single] code='5*10' n=2860
+[gpu_single] code='5*10' n=3089
+[gpu_single] code='5*10' n=3338
+[gpu_single] code='5*10' n=3606
+[gpu_single] code='5*10' n=3895
+[gpu_single] code='5*10' n=4208
+[gpu_single] code='5*10' n=4546
+[gpu_single] code='5*10' n=4912
+[gpu_single] code='5*10' n=5306
+[gpu_single] code='5*10' n=5733
+[gpu_single] code='5*10' n=6193
+[gpu_single] code='5*10' n=6691
+[gpu_single] code='5*10' n=7228
+[gpu_single] code='5*10' n=7809
+[gpu_single] code='5*10' n=8436
+[gpu_single] code='5*10' n=9114
+[gpu_single] code='5*10' n=9846
+[gpu_single] code='5*10' n=10637
+[gpu_single] code='5*10' n=11492
+[gpu_single] code='5*10' n=12415
+[gpu_single] code='5*10' n=13412
+[gpu_single] code='5*10' n=14490
+[gpu_single] code='5*10' n=15654
+[gpu_single] code='5*10' n=16911
+[gpu_single] code='5*10' n=18270
+[gpu_single] code='5*10' n=19737
+[gpu_single] code='5*10' n=21323
+[gpu_single] code='5*10' n=23036
+[gpu_single] code='5*10' n=24887
+[gpu_single] code='5*10' n=26886
+[gpu_single] code='5*10' n=29046
+[gpu_single] code='5*10' n=31379
+[gpu_single] code='5*10' n=33900
+[gpu_single] code='5*10' n=36623
+[gpu_single] code='5*10' n=39565
+[gpu_single] code='5*10' n=42743
+[gpu_single] code='5*10' n=46177
+[gpu_single] code='5*10' n=49886
+[gpu_single] code='5*10' n=53894
+[gpu_single] code='5*10' n=58223
+[gpu_single] code='5*10' n=62901
+[gpu_single] code='5*10' n=67953
+[gpu_single] code='5*10' n=73412
+[gpu_single] code='5*10' n=79310
+[gpu_single] code='5*10' n=85681
+[gpu_single] code='5*10' n=92564
+[gpu_single] code='5*10' n=100000
+[cpu_single] code='500/10' n=1
+[cpu_single] code='500/10' n=2
+[cpu_single] code='500/10' n=3
+[cpu_single] code='500/10' n=4
+[cpu_single] code='500/10' n=5
+[cpu_single] code='500/10' n=6
+[cpu_single] code='500/10' n=7
+[cpu_single] code='500/10' n=8
+[cpu_single] code='500/10' n=9
+[cpu_single] code='500/10' n=10
+[cpu_single] code='500/10' n=11
+[cpu_single] code='500/10' n=12
+[cpu_single] code='500/10' n=13
+[cpu_single] code='500/10' n=14
+[cpu_single] code='500/10' n=16
+[cpu_single] code='500/10' n=17
+[cpu_single] code='500/10' n=18
+[cpu_single] code='500/10' n=20
+[cpu_single] code='500/10' n=21
+[cpu_single] code='500/10' n=23
+[cpu_single] code='500/10' n=25
+[cpu_single] code='500/10' n=27
+[cpu_single] code='500/10' n=29
+[cpu_single] code='500/10' n=32
+[cpu_single] code='500/10' n=34
+[cpu_single] code='500/10' n=37
+[cpu_single] code='500/10' n=40
+[cpu_single] code='500/10' n=44
+[cpu_single] code='500/10' n=47
+[cpu_single] code='500/10' n=51
+[cpu_single] code='500/10' n=55
+[cpu_single] code='500/10' n=60
+[cpu_single] code='500/10' n=64
+[cpu_single] code='500/10' n=70
+[cpu_single] code='500/10' n=75
+[cpu_single] code='500/10' n=81
+[cpu_single] code='500/10' n=88
+[cpu_single] code='500/10' n=95
+[cpu_single] code='500/10' n=103
+[cpu_single] code='500/10' n=111
+[cpu_single] code='500/10' n=120
+[cpu_single] code='500/10' n=130
+[cpu_single] code='500/10' n=140
+[cpu_single] code='500/10' n=151
+[cpu_single] code='500/10' n=163
+[cpu_single] code='500/10' n=177
+[cpu_single] code='500/10' n=191
+[cpu_single] code='500/10' n=206
+[cpu_single] code='500/10' n=223
+[cpu_single] code='500/10' n=241
+[cpu_single] code='500/10' n=260
+[cpu_single] code='500/10' n=281
+[cpu_single] code='500/10' n=304
+[cpu_single] code='500/10' n=328
+[cpu_single] code='500/10' n=355
+[cpu_single] code='500/10' n=383
+[cpu_single] code='500/10' n=414
+[cpu_single] code='500/10' n=447
+[cpu_single] code='500/10' n=483
+[cpu_single] code='500/10' n=522
+[cpu_single] code='500/10' n=564
+[cpu_single] code='500/10' n=609
+[cpu_single] code='500/10' n=658
+[cpu_single] code='500/10' n=711
+[cpu_single] code='500/10' n=768
+[cpu_single] code='500/10' n=830
+[cpu_single] code='500/10' n=897
+[cpu_single] code='500/10' n=969
+[cpu_single] code='500/10' n=1047
+[cpu_single] code='500/10' n=1131
+[cpu_single] code='500/10' n=1222
+[cpu_single] code='500/10' n=1320
+[cpu_single] code='500/10' n=1426
+[cpu_single] code='500/10' n=1541
+[cpu_single] code='500/10' n=1665
+[cpu_single] code='500/10' n=1799
+[cpu_single] code='500/10' n=1943
+[cpu_single] code='500/10' n=2099
+[cpu_single] code='500/10' n=2268
+[cpu_single] code='500/10' n=2450
+[cpu_single] code='500/10' n=2647
+[cpu_single] code='500/10' n=2860
+[cpu_single] code='500/10' n=3089
+[cpu_single] code='500/10' n=3338
+[cpu_single] code='500/10' n=3606
+[cpu_single] code='500/10' n=3895
+[cpu_single] code='500/10' n=4208
+[cpu_single] code='500/10' n=4546
+[cpu_single] code='500/10' n=4912
+[cpu_single] code='500/10' n=5306
+[cpu_single] code='500/10' n=5733
+[cpu_single] code='500/10' n=6193
+[cpu_single] code='500/10' n=6691
+[cpu_single] code='500/10' n=7228
+[cpu_single] code='500/10' n=7809
+[cpu_single] code='500/10' n=8436
+[cpu_single] code='500/10' n=9114
+[cpu_single] code='500/10' n=9846
+[cpu_single] code='500/10' n=10637
+[cpu_single] code='500/10' n=11492
+[cpu_single] code='500/10' n=12415
+[cpu_single] code='500/10' n=13412
+[cpu_single] code='500/10' n=14490
+[cpu_single] code='500/10' n=15654
+[cpu_single] code='500/10' n=16911
+[cpu_single] code='500/10' n=18270
+[cpu_single] code='500/10' n=19737
+[cpu_single] code='500/10' n=21323
+[cpu_single] code='500/10' n=23036
+[cpu_single] code='500/10' n=24887
+[cpu_single] code='500/10' n=26886
+[cpu_single] code='500/10' n=29046
+[cpu_single] code='500/10' n=31379
+[cpu_single] code='500/10' n=33900
+[cpu_single] code='500/10' n=36623
+[cpu_single] code='500/10' n=39565
+[cpu_single] code='500/10' n=42743
+[cpu_single] code='500/10' n=46177
+[cpu_single] code='500/10' n=49886
+[cpu_single] code='500/10' n=53894
+[cpu_single] code='500/10' n=58223
+[cpu_single] code='500/10' n=62901
+[cpu_single] code='500/10' n=67953
+[cpu_single] code='500/10' n=73412
+[cpu_single] code='500/10' n=79310
+[cpu_single] code='500/10' n=85681
+[cpu_single] code='500/10' n=92564
+[cpu_single] code='500/10' n=100000
+[gpu_single] code='500/10' n=1
+[gpu_single] code='500/10' n=2
+[gpu_single] code='500/10' n=3
+[gpu_single] code='500/10' n=4
+[gpu_single] code='500/10' n=5
+[gpu_single] code='500/10' n=6
+[gpu_single] code='500/10' n=7
+[gpu_single] code='500/10' n=8
+[gpu_single] code='500/10' n=9
+[gpu_single] code='500/10' n=10
+[gpu_single] code='500/10' n=11
+[gpu_single] code='500/10' n=12
+[gpu_single] code='500/10' n=13
+[gpu_single] code='500/10' n=14
+[gpu_single] code='500/10' n=16
+[gpu_single] code='500/10' n=17
+[gpu_single] code='500/10' n=18
+[gpu_single] code='500/10' n=20
+[gpu_single] code='500/10' n=21
+[gpu_single] code='500/10' n=23
+[gpu_single] code='500/10' n=25
+[gpu_single] code='500/10' n=27
+[gpu_single] code='500/10' n=29
+[gpu_single] code='500/10' n=32
+[gpu_single] code='500/10' n=34
+[gpu_single] code='500/10' n=37
+[gpu_single] code='500/10' n=40
+[gpu_single] code='500/10' n=44
+[gpu_single] code='500/10' n=47
+[gpu_single] code='500/10' n=51
+[gpu_single] code='500/10' n=55
+[gpu_single] code='500/10' n=60
+[gpu_single] code='500/10' n=64
+[gpu_single] code='500/10' n=70
+[gpu_single] code='500/10' n=75
+[gpu_single] code='500/10' n=81
+[gpu_single] code='500/10' n=88
+[gpu_single] code='500/10' n=95
+[gpu_single] code='500/10' n=103
+[gpu_single] code='500/10' n=111
+[gpu_single] code='500/10' n=120
+[gpu_single] code='500/10' n=130
+[gpu_single] code='500/10' n=140
+[gpu_single] code='500/10' n=151
+[gpu_single] code='500/10' n=163
+[gpu_single] code='500/10' n=177
+[gpu_single] code='500/10' n=191
+[gpu_single] code='500/10' n=206
+[gpu_single] code='500/10' n=223
+[gpu_single] code='500/10' n=241
+[gpu_single] code='500/10' n=260
+[gpu_single] code='500/10' n=281
+[gpu_single] code='500/10' n=304
+[gpu_single] code='500/10' n=328
+[gpu_single] code='500/10' n=355
+[gpu_single] code='500/10' n=383
+[gpu_single] code='500/10' n=414
+[gpu_single] code='500/10' n=447
+[gpu_single] code='500/10' n=483
+[gpu_single] code='500/10' n=522
+[gpu_single] code='500/10' n=564
+[gpu_single] code='500/10' n=609
+[gpu_single] code='500/10' n=658
+[gpu_single] code='500/10' n=711
+[gpu_single] code='500/10' n=768
+[gpu_single] code='500/10' n=830
+[gpu_single] code='500/10' n=897
+[gpu_single] code='500/10' n=969
+[gpu_single] code='500/10' n=1047
+[gpu_single] code='500/10' n=1131
+[gpu_single] code='500/10' n=1222
+[gpu_single] code='500/10' n=1320
+[gpu_single] code='500/10' n=1426
+[gpu_single] code='500/10' n=1541
+[gpu_single] code='500/10' n=1665
+[gpu_single] code='500/10' n=1799
+[gpu_single] code='500/10' n=1943
+[gpu_single] code='500/10' n=2099
+[gpu_single] code='500/10' n=2268
+[gpu_single] code='500/10' n=2450
+[gpu_single] code='500/10' n=2647
+[gpu_single] code='500/10' n=2860
+[gpu_single] code='500/10' n=3089
+[gpu_single] code='500/10' n=3338
+[gpu_single] code='500/10' n=3606
+[gpu_single] code='500/10' n=3895
+[gpu_single] code='500/10' n=4208
+[gpu_single] code='500/10' n=4546
+[gpu_single] code='500/10' n=4912
+[gpu_single] code='500/10' n=5306
+[gpu_single] code='500/10' n=5733
+[gpu_single] code='500/10' n=6193
+[gpu_single] code='500/10' n=6691
+[gpu_single] code='500/10' n=7228
+[gpu_single] code='500/10' n=7809
+[gpu_single] code='500/10' n=8436
+[gpu_single] code='500/10' n=9114
+[gpu_single] code='500/10' n=9846
+[gpu_single] code='500/10' n=10637
+[gpu_single] code='500/10' n=11492
+[gpu_single] code='500/10' n=12415
+[gpu_single] code='500/10' n=13412
+[gpu_single] code='500/10' n=14490
+[gpu_single] code='500/10' n=15654
+[gpu_single] code='500/10' n=16911
+[gpu_single] code='500/10' n=18270
+[gpu_single] code='500/10' n=19737
+[gpu_single] code='500/10' n=21323
+[gpu_single] code='500/10' n=23036
+[gpu_single] code='500/10' n=24887
+[gpu_single] code='500/10' n=26886
+[gpu_single] code='500/10' n=29046
+[gpu_single] code='500/10' n=31379
+[gpu_single] code='500/10' n=33900
+[gpu_single] code='500/10' n=36623
+[gpu_single] code='500/10' n=39565
+[gpu_single] code='500/10' n=42743
+[gpu_single] code='500/10' n=46177
+[gpu_single] code='500/10' n=49886
+[gpu_single] code='500/10' n=53894
+[gpu_single] code='500/10' n=58223
+[gpu_single] code='500/10' n=62901
+[gpu_single] code='500/10' n=67953
+[gpu_single] code='500/10' n=73412
+[gpu_single] code='500/10' n=79310
+[gpu_single] code='500/10' n=85681
+[gpu_single] code='500/10' n=92564
+[gpu_single] code='500/10' n=100000
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=1
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=2
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=3
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=4
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=5
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=6
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=7
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=8
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=9
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=10
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=11
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=12
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=13
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=14
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=16
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=17
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=18
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=20
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=21
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=23
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=25
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=27
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=29
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=32
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=34
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=37
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=40
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=44
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=47
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=51
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=55
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=60
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=64
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=70
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=75
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=81
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=88
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=95
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=103
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=111
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=120
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=130
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=140
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=151
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=163
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=177
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=191
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=206
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=223
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=241
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=260
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=281
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=304
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=328
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=355
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=383
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=414
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=447
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=483
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=522
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=564
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=609
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=658
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=711
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=768
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=830
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=897
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=969
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=1047
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=1131
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=1222
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=1320
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=1426
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=1541
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=1665
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=1799
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=1943
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=2099
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=2268
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=2450
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=2647
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=2860
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=3089
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=3338
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=3606
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=3895
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=4208
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=4546
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=4912
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=5306
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=5733
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=6193
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=6691
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=7228
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=7809
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=8436
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=9114
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=9846
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=10637
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=11492
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=12415
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=13412
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=14490
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=15654
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=16911
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=18270
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=19737
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=21323
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=23036
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=24887
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=26886
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=29046
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=31379
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=33900
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=36623
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=39565
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=42743
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=46177
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=49886
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=53894
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=58223
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=62901
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=67953
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=73412
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=79310
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=85681
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=92564
+[cpu_single] code='(a + 2) * (b - 3) / 4' n=100000
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=1
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=2
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=3
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=4
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=5
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=6
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=7
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=8
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=9
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=10
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=11
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=12
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=13
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=14
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=16
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=17
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=18
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=20
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=21
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=23
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=25
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=27
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=29
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=32
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=34
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=37
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=40
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=44
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=47
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=51
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=55
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=60
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=64
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=70
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=75
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=81
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=88
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=95
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=103
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=111
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=120
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=130
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=140
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=151
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=163
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=177
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=191
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=206
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=223
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=241
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=260
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=281
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=304
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=328
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=355
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=383
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=414
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=447
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=483
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=522
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=564
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=609
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=658
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=711
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=768
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=830
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=897
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=969
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=1047
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=1131
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=1222
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=1320
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=1426
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=1541
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=1665
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=1799
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=1943
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=2099
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=2268
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=2450
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=2647
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=2860
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=3089
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=3338
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=3606
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=3895
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=4208
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=4546
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=4912
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=5306
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=5733
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=6193
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=6691
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=7228
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=7809
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=8436
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=9114
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=9846
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=10637
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=11492
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=12415
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=13412
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=14490
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=15654
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=16911
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=18270
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=19737
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=21323
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=23036
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=24887
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=26886
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=29046
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=31379
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=33900
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=36623
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=39565
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=42743
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=46177
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=49886
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=53894
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=58223
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=62901
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=67953
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=73412
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=79310
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=85681
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=92564
+[gpu_single] code='(a + 2) * (b - 3) / 4' n=100000
+END OF SINGLE BENCH
+Time taken:10h 22m 53s

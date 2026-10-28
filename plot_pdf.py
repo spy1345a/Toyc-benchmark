@@ -3,7 +3,7 @@ import duckdb
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
-DB_PATH = ("data/100k_10r_rx580_2048sp/bench_data_100k_10r.db")  # 100k n, 10 repeats per test
+DB_PATH = ("data//bench_data_100k_10r_with_variables_assigning_rx580_2048sp_8gb.db")  # 100k n, 10 repeats per test
 
 CPU_LABEL = ("Intel Core i5-4440")
 GPU_LABEL = ("AMD RX 580 2048SP 8GB")
@@ -56,7 +56,7 @@ ax.plot(cpu_batch_avg["n"],  cpu_batch_avg["mean_per_eval"],  label="CPU Batch (
 ax.plot(gpu_single_avg["n"], gpu_single_avg["mean_per_eval"], label="GPU Single")
 ax.plot(gpu_batch_avg["n"],  gpu_batch_avg["mean_per_eval"],  label="GPU Batch")
 style_ax(ax, "All modes — mean per eval (averaged across equations)")
-add_hw_footnote(fig, "averaged across: 1+2, 10-5, 5*10, 500/10")
+add_hw_footnote(fig, "averaged across: 1+2, 10-5, 5*10, 500/10,(a + 2) * (b - 3) / 4 ,with a=10, b=5")
 plt.tight_layout()
 plt.savefig("data/chart_01_all_modes_avg.pdf", bbox_inches="tight")
 plt.close()
