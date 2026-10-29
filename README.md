@@ -12,6 +12,7 @@ pip install -r requirements.txt
 ```python
 python example.py    # minimal usage demo, CSVs + summary
 ```
+For software used look at SYSTEM_INFO.txt 
 
 Results land as `bench_*.csv` / `example_*.csv` (one row per run:
 backend, timings, worker/chunk columns), ready for pandas/matplotlib
