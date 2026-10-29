@@ -1,6 +1,6 @@
-# vulkan-compiler — experiments for a research paper
+# Toyc-benchmark
 
-Benchmarks and test scripts for **[toyc](https://github.com/spy1345a/toyc-repo)**,
+Toyc pip libery **[toyc](https://github.com/spy1345a/toyc-repo)**,
 a toy expression compiler with CPU and Vulkan GPU backends. This repo
 holds the experiments; the library under study lives in toyc.
 
