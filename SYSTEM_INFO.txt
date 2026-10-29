@@ -1,0 +1,172 @@
+=== toyc benchmark system info ===
+Generated (UTC): 2026-10-29T14:25:37Z
+
+--- OS / Kernel ---
+PRETTY_NAME="CachyOS"
+Linux 7.3.0-4-cachyos x86_64 GNU/Linux
+
+--- CPU ---
+CPU(s):                                  4
+Model name:                              Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz
+Thread(s) per core:                      1
+Core(s) per socket:                      4
+Socket(s):                               1
+CPU(s) scaling MHz:                      95%
+CPU max MHz:                             3300.0000
+CPU min MHz:                             800.0000
+L2 cache:                                1 MiB (4 instances)
+L3 cache:                                6 MiB (1 instance)
+
+--- RAM ---
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       6.2Gi       536Mi       192Mi       8.9Gi       9.3Gi
+Swap:           15Gi          0B        15Gi
+
+--- GPU (PCI) and kernel driver ---
+01:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Polaris 20 XL/XTR [Radeon RX 580 2048SP / RX 590 GME] (rev ef)
+	Subsystem: Advanced Micro Devices, Inc. [AMD/ATI] Radeon RX 580 2048SP / Radeon RX 590 GME
+	Kernel driver in use: amdgpu
+	Kernel modules: amdgpu
+
+--- Mesa ---
+mesa 3:26.2.5-1
+vulkan-radeon 3:26.2.5-1
+vulkan-icd-loader 1.4.363.0-1.1
+
+--- OpenGL ---
+name of display: :0
+display: :0  screen: 0
+direct rendering: Yes
+Extended renderer info (GLX_MESA_query_renderer):
+    Vendor: AMD (0x1002)
+    Device: AMD Radeon RX 580 2048SP (radeonsi, polaris10, ACO, DRM 3.64, 7.3.0-4-cachyos) (0x6fdf)
+    Version: 26.2.5
+    Accelerated: yes
+    Video memory: 8192MB
+    Unified memory: no
+    Preferred profile: core (0x1)
+    Max core profile version: 4.6
+    Max compat profile version: 4.6
+    Max GLES1 profile version: 1.1
+    Max GLES[23] profile version: 3.2
+Memory info (GL_ATI_meminfo):
+    VBO free memory - total: 7035 MB, largest block: 7035 MB
+    VBO free aux. memory - total: 7792 MB, largest block: 7792 MB
+    Texture free memory - total: 7035 MB, largest block: 7035 MB
+    Texture free aux. memory - total: 7792 MB, largest block: 7792 MB
+    Renderbuffer free memory - total: 7035 MB, largest block: 7035 MB
+    Renderbuffer free aux. memory - total: 7792 MB, largest block: 7792 MB
+Memory info (GL_NVX_gpu_memory_info):
+    Dedicated video memory: 8192 MB
+    Total available memory: 16153 MB
+    Currently available dedicated video memory: 7035 MB
+OpenGL vendor string: AMD
+OpenGL renderer string: AMD Radeon RX 580 2048SP (radeonsi, polaris10, ACO, DRM 3.64, 7.3.0-4-cachyos)
+OpenGL core profile version string: 4.6 (Core Profile) Mesa 26.2.5-arch3.1
+OpenGL core profile shading language version string: 4.60
+OpenGL core profile context flags: (none)
+OpenGL core profile profile mask: core profile
+
+OpenGL version string: 4.6 (Compatibility Profile) Mesa 26.2.5-arch3.1
+OpenGL shading language version string: 4.60
+OpenGL context flags: (none)
+OpenGL profile mask: compatibility profile
+
+OpenGL ES profile version string: OpenGL ES 3.2 Mesa 26.2.5-arch3.1
+OpenGL ES profile shading language version string: OpenGL ES GLSL ES 3.20
+
+
+--- Vulkan summary ---
+==========
+VULKANINFO
+==========
+
+Vulkan Instance Version: 1.4.363
+
+
+Instance Extensions: count = 26
+-------------------------------
+VK_EXT_acquire_drm_display             : extension revision 1
+VK_EXT_acquire_xlib_display            : extension revision 1
+VK_EXT_debug_report                    : extension revision 10
+VK_EXT_debug_utils                     : extension revision 2
+VK_EXT_direct_mode_display             : extension revision 1
+VK_EXT_display_surface_counter         : extension revision 1
+VK_EXT_headless_surface                : extension revision 1
+VK_EXT_layer_settings                  : extension revision 2
+VK_EXT_surface_maintenance1            : extension revision 1
+VK_EXT_swapchain_colorspace            : extension revision 5
+VK_KHR_device_group_creation           : extension revision 1
+VK_KHR_display                         : extension revision 23
+VK_KHR_external_fence_capabilities     : extension revision 1
+VK_KHR_external_memory_capabilities    : extension revision 1
+VK_KHR_external_semaphore_capabilities : extension revision 1
+VK_KHR_get_display_properties2         : extension revision 1
+VK_KHR_get_physical_device_properties2 : extension revision 2
+VK_KHR_get_surface_capabilities2       : extension revision 1
+VK_KHR_portability_enumeration         : extension revision 1
+VK_KHR_surface                         : extension revision 25
+VK_KHR_surface_maintenance1            : extension revision 1
+VK_KHR_surface_protected_capabilities  : extension revision 1
+VK_KHR_wayland_surface                 : extension revision 6
+VK_KHR_xcb_surface                     : extension revision 6
+VK_KHR_xlib_surface                    : extension revision 6
+VK_LUNARG_direct_driver_loading        : extension revision 1
+
+Instance Layers: count = 7
+--------------------------
+VK_LAYER_MESA_anti_lag            Open-source implementation of the VK_AMD_anti_lag extension. 1.4.303  version 1
+VK_LAYER_MESA_device_select       Linux device selection layer                                 1.4.303  version 1
+VK_LAYER_NV_optimus               NVIDIA Optimus layer                                         1.2.175  version 1
+VK_LAYER_VALVE_steam_fossilize_32 Steam Pipeline Caching Layer                                 1.3.207  version 1
+VK_LAYER_VALVE_steam_fossilize_64 Steam Pipeline Caching Layer                                 1.3.207  version 1
+VK_LAYER_VALVE_steam_overlay_32   Steam Overlay Layer                                          1.3.207  version 1
+VK_LAYER_VALVE_steam_overlay_64   Steam Overlay Layer                                          1.3.207  version 1
+
+Devices:
+========
+GPU0:
+	apiVersion         = 1.4.354
+	driverVersion      = 26.2.5
+	vendorID           = 0x1002
+	deviceID           = 0x6fdf
+	deviceType         = PHYSICAL_DEVICE_TYPE_DISCRETE_GPU
+	deviceName         = AMD Radeon RX 580 2048SP (RADV POLARIS10)
+	driverID           = DRIVER_ID_MESA_RADV
+	driverName         = radv
+	driverInfo         = Mesa 26.2.5-arch3.1
+	conformanceVersion = 1.4.5.3
+	deviceUUID         = 00000000-0100-0000-0000-000000000000
+	driverUUID         = 414d442d-4d45-5341-2d44-525600000000
+
+--- Vulkan memory heaps (device-local is what batch sizing uses) ---
+	memoryHeaps[0]:
+		size   = 8321499136 (0x1f0000000) (7.75 GiB)
+		budget = 7112523776 (0x1a7f08000) (6.62 GiB)
+		usage  = 0 (0x00000000) (0.00 B)
+--
+	memoryHeaps[1]:
+		size   = 8347959296 (0x1f193c000) (7.77 GiB)
+		budget = 8172748800 (0x1e7224000) (7.61 GiB)
+		usage  = 0 (0x00000000) (0.00 B)
+--
+	memoryHeaps[2]:
+		size   = 268435456 (0x10000000) (256.00 MiB)
+		budget = 59985920 (0x03935000) (57.21 MiB)
+		usage  = 0 (0x00000000) (0.00 B)
+
+--- Vulkan compute limits ---
+	maxStorageBufferRange                           = 4294967295
+	maxComputeSharedMemorySize                      = 65536
+	maxComputeWorkGroupCount: count = 3
+	maxComputeWorkGroupInvocations                  = 1024
+	maxComputeWorkGroupSize: count = 3
+
+--- Python / toyc ---
+Python 3.14.8
+numpy                2.5.3
+toyc                 0.1.0
+vulkan               1.3.275.1
+
+--- Git commit of this repo ---
+3593aeae151a50f10fd30f4c8c9410970d57ef93
